@@ -1,0 +1,25 @@
+
+> radiosonde-drift@1.0.0 build
+> npm run build -w @rs/shared && npm run build -w @rs/server && npm run build -w @rs/web
+
+
+> @rs/shared@1.0.0 build
+> tsc -p tsconfig.json
+
+
+> @rs/server@1.0.0 build
+> tsc -p tsconfig.json
+
+
+> @rs/web@1.0.0 build
+> tsc -p tsconfig.json --noEmit && vite build
+
+vite v7.3.6 building client environment for production...
+transforming...
+✓ 64 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.49 kB │ gzip:   0.34 kB
+dist/assets/index-C-gtO2_u.css   37.05 kB │ gzip:   7.30 kB
+dist/assets/index-R8izvO9t.js   334.96 kB │ gzip: 102.44 kB │ map: 1,423.09 kB
+✓ built in 1.06s

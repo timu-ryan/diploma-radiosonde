@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="USTBARGUZIN" Caption="Усть-Баргузин" AMSG="АМЦ  Иркутск" Lat="53,40" Lon="109,03" MailTo="" Start="0" Center="false" Index="30635" HMS="РС10 ЗБУЗ" CGMS="RUCH" UGMS="RUCH" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Усть-Баргузин" x="280" y="244" angle="0"/>
+		<Label Caption="&#9650; NELBU" x="147" y="140" angle="0"/>
+		<Label Caption="&#9650; DEROD" x="112" y="250" angle="0"/>
+		<Label Caption="&#9650; ADAPA" x="107" y="441" angle="0"/>
+		<Label Caption="&#9650; " x="139" y="454" angle="0"/>
+		<Label Caption="TAKUL" x="147" y="472" angle="0"/>
+		<Label Caption="&#9650; SILON" x="395" y="417" angle="0"/>
+		<Label Caption="&#9650;RIMLA" x="409" y="304" angle="0"/>
+		<Label Caption="&#9650; ALUMI" x="415" y="159" angle="0"/>
+		<Label Caption="BARAS" x="276" y="277" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="209" y="7"/>
+			<point x="151" y="153"/>
+			<point x="118" y="254"/>
+			<point x="56" y="425"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="63" y="93"/>
+			<point x="149" y="148"/>
+			<point x="414" y="311"/>
+			<point x="511" y="381"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="5" y="214"/>
+			<point x="114" y="256"/>
+			<point x="403" y="378"/>
+			<point x="493" y="412"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="66" y="438"/>
+			<point x="115" y="451"/>
+			<point x="389" y="504"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="94" y="472"/>
+			<point x="113" y="448"/>
+			<point x="262" y="264"/>
+			<point x="303" y="2"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="115" y="487"/>
+			<point x="265" y="264"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="422" y="171"/>
+			<point x="533" y="307"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="211" y="7"/>
+			<point x="418" y="169"/>
+			<point x="531" y="259"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="95" y="474"/>
+			<point x="504" y="390"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="125" y="494"/>
+			<point x="489" y="420"/>
+		</Polyline>
+		<Label Caption="&#9650; OGRAN" x="402" y="370" angle="0"/>
+		<Label Caption="W265" x="154" y="90" angle="800"/>
+		<Label Caption="P873" x="280" y="440" angle="150"/>
+		<Label Caption="B478" x="244" y="183" angle="-300"/>
+		<Label Caption="W269" x="150" y="367" angle="550"/>
+		<Label Caption="W308" x="206" y="369" angle="600"/>
+		<Label Caption="A817" x="292" y="337" angle="-250"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="79" y="81"/>
+			<point x="517" y="357"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="453" y="460"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="450" y="460"/>
+			<point x="1" y="277"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="2" y="259"/>
+			<point x="260" y="269"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="97" y="470"/>
+			<point x="263" y="270"/>
+			<point x="302" y="2"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="120" y="489"/>
+			<point x="263" y="272"/>
+		</Polyline>
+		<Label Caption="W269" x="97" y="422" angle="550"/>
+		<Label Caption="W308" x="165" y="457" angle="600"/>
+		<Label Caption="B478" x="305" y="180" angle="-300"/>
+		<Label Caption="BARAS" x="276" y="277" angle="0"/>
+		<Label Caption="Усть-Баргузин" x="280" y="244" angle="0"/>
+	</Scale>
+</root>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="SBLVO" Caption="Соболево" AMSG="Елизово" Start="0" Lat="54,298858" Lon="155,946087" MailTo="" Center="true" Index="32447" HMS="РА14 ПТРП" CGMS="RUPK" UGMS="RUPK" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="308" y="3"/>
+			<point x="275" y="204"/>
+			<point x="159" y="23"/>
+		</Polyline>
+		<Polyline>
+			<point x="114" y="49"/>
+			<point x="125" y="67"/>
+			<point x="110" y="54"/>
+		</Polyline>
+		<Polyline>
+			<point x="70" y="87"/>
+			<point x="268" y="286"/>
+			<point x="304" y="530"/>
+		</Polyline>
+		<Polyline>
+			<point x="328" y="525"/>
+			<point x="299" y="316"/>
+			<point x="452" y="460"/>
+		</Polyline>
+		<Polyline>
+			<point x="499" y="401"/>
+			<point x="370" y="311"/>
+			<point x="295" y="241"/>
+			<point x="334" y="9"/>
+		</Polyline>
+		<Polyline>
+			<point x="213" y="5"/>
+			<point x="211" y="47"/>
+			<point x="278" y="261"/>
+			<point x="281" y="446"/>
+			<point x="299" y="529"/>
+		</Polyline>
+		<Polyline>
+			<point x="218" y="3"/>
+			<point x="216" y="47"/>
+			<point x="283" y="255"/>
+			<point x="286" y="443"/>
+			<point x="305" y="528"/>
+		</Polyline>
+		<Polyline/>
+		<Label Caption="В341" x="153" y="31" angle="-500"/>
+		<Label Caption="Г101" x="93" y="69" angle="-500"/>
+		<Label Caption="Г101" x="443" y="418" angle="-500"/>
+		<Label Caption="Б703" x="464" y="385" angle="-400"/>
+		<Label Caption="В213" x="304" y="44" angle="800"/>
+		<Label Caption="В213" x="316" y="480" angle="-800"/>
+		<Label Caption="КД304" x="238" y="93" angle="-720"/>
+		<Label Caption="&#9650;" x="208" y="40" angle="0"/>
+		<Label Caption="&#9650;" x="286" y="161" angle="0"/>
+		<Label Caption="&#9650;" x="205" y="152" angle="0"/>
+		<Label Caption="&#9650;" x="352" y="330" angle="0"/>
+		<Label Caption="&#9650;" x="366" y="321" angle="0"/>
+		<Label Caption="&#9650;" x="291" y="384" angle="0"/>
+		<Label Caption="&#9650;" x="114" y="99" angle="0"/>
+		<Label Caption="&#9650;" x="145" y="68" angle="0"/>
+		<Label Caption="&#9650;" x="280" y="439" angle="0"/>
+		<Label Caption="ДЕЛАМ" x="163" y="71" angle="0"/>
+		<Label Caption="ВАНИТ" x="127" y="116" angle="0"/>
+		<Label Caption="СОПДИ" x="175" y="141" angle="0"/>
+		<Label Caption="ДОСИП" x="294" y="151" angle="0"/>
+		<Label Caption="ИДАМУ" x="373" y="306" angle="0"/>
+		<Label Caption="ОГУДО" x="358" y="349" angle="0"/>
+		<Label Caption="РАПОН" x="313" y="394" angle="0"/>
+		<Airway Caption="В213-1">
+			<point x="308" y="4"/>
+			<point x="273" y="204"/>
+			<point x="267" y="286"/>
+			<point x="304" y="528"/>
+		</Airway>
+		<Airway Caption="В213-2">
+			<point x="332" y="8"/>
+			<point x="296" y="239"/>
+			<point x="299" y="316"/>
+			<point x="328" y="524"/>
+		</Airway>
+		<Airway Caption="Г101-1">
+			<point x="70" y="89"/>
+			<point x="265" y="286"/>
+		</Airway>
+		<Airway Caption="Г101-2">
+			<point x="108" y="55"/>
+			<point x="125" y="67"/>
+			<point x="264" y="234"/>
+		</Airway>
+		<Airway Caption="Г101-3">
+			<point x="263" y="232"/>
+			<point x="265" y="284"/>
+		</Airway>
+		<Airway Caption="Г101-4">
+			<point x="451" y="459"/>
+			<point x="302" y="320"/>
+		</Airway>
+		<Airway Caption="Г101-5">
+			<point x="475" y="434"/>
+			<point x="301" y="287"/>
+		</Airway>
+		<Airway Caption="Г101-6">
+			<point x="302" y="288"/>
+			<point x="301" y="318"/>
+		</Airway>
+		<Airway Caption="В341-1">
+			<point x="159" y="24"/>
+			<point x="271" y="201"/>
+		</Airway>
+		<Airway Caption="В341-2">
+			<point x="113" y="50"/>
+			<point x="265" y="229"/>
+		</Airway>
+		<Airway Caption="В341-3">
+			<point x="263" y="228"/>
+			<point x="272" y="203"/>
+		</Airway>
+		<Airway Caption="Б703-1">
+			<point x="497" y="398"/>
+			<point x="367" y="306"/>
+			<point x="299" y="245"/>
+		</Airway>
+		<Airway Caption="Б703-2">
+			<point x="477" y="432"/>
+			<point x="300" y="279"/>
+		</Airway>
+		<Airway Caption="Б703-3">
+			<point x="301" y="279"/>
+			<point x="299" y="244"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="304" y="4"/>
+			<point x="277" y="146"/>
+			<point x="194" y="14"/>
+		</Polyline>
+		<Polyline>
+			<point x="62" y="100"/>
+			<point x="264" y="295"/>
+			<point x="299" y="526"/>
+		</Polyline>
+		<Polyline>
+			<point x="353" y="519"/>
+			<point x="331" y="369"/>
+			<point x="440" y="470"/>
+		</Polyline>
+		<Polyline>
+			<point x="509" y="379"/>
+			<point x="474" y="357"/>
+			<point x="321" y="216"/>
+			<point x="355" y="15"/>
+		</Polyline>
+		<Polyline>
+			<point x="221" y="6"/>
+			<point x="298" y="250"/>
+			<point x="301" y="528"/>
+		</Polyline>
+		<Polyline>
+			<point x="208" y="8"/>
+			<point x="286" y="252"/>
+			<point x="292" y="527"/>
+		</Polyline>
+		<Label Caption="В341" x="179" y="25" angle="-500"/>
+		<Label Caption="Г101" x="93" y="77" angle="-500"/>
+		<Label Caption="Г101" x="393" y="381" angle="-500"/>
+		<Label Caption="Б703" x="479" y="366" angle="-450"/>
+		<Label Caption="В213" x="307" y="42" angle="800"/>
+		<Label Caption="В213" x="324" y="428" angle="-800"/>
+		<Label Caption="КД304" x="262" y="127" angle="-750"/>
+		<Label Caption="&#9650;" x="223" y="48" angle="0"/>
+		<Label Caption="&#9650;" x="154" y="47" angle="0"/>
+		<Label Caption="&#9650;" x="313" y="65" angle="0"/>
+		<Label Caption="&#9650;" x="443" y="400" angle="0"/>
+		<Label Caption="&#9650;" x="317" y="504" angle="0"/>
+		<Label Caption="&#9650;" x="286" y="249" angle="0"/>
+		<Label Caption="РУРКИ" x="237" y="44" angle="0"/>
+		<Label Caption="ДОСИБ" x="332" y="58" angle="0"/>
+		<Label Caption="ОГУДО" x="402" y="422" angle="0"/>
+		<Label Caption="РАПОН" x="288" y="480" angle="0"/>
+		<Label Caption="СОБВО" x="300" y="245" angle="0"/>
+		<Label Caption="СОПДИ" x="122" y="65" angle="0"/>
+	</Scale>
+</root>

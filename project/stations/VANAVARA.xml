@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="VANAVARA" Caption="Ванавара" AMSG="АМЦ Красноярск" Lat="60,33" Lon="102,27" MailTo="" Start="0" Center="false" Index="24908" HMS="РС15 КРЯР" CGMS="RUKR" UGMS="RUKR" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Dot">
+			<point x="271" y="252"/>
+			<point x="336" y="523"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="74" y="80"/>
+			<point x="476" y="103"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="175" y="19"/>
+			<point x="416" y="44"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="28" y="146"/>
+			<point x="270" y="255"/>
+			<point x="533" y="279"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="21" y="160"/>
+			<point x="271" y="256"/>
+			<point x="531" y="292"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="5" y="215"/>
+			<point x="272" y="256"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="34" y="133"/>
+			<point x="113" y="483"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="21" y="368"/>
+			<point x="272" y="259"/>
+			<point x="498" y="134"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="74" y="451"/>
+			<point x="271" y="256"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="123" y="42"/>
+			<point x="158" y="45"/>
+			<point x="163" y="57"/>
+			<point x="105" y="54"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="52" y="105"/>
+			<point x="185" y="114"/>
+			<point x="221" y="205"/>
+			<point x="59" y="132"/>
+			<point x="52" y="103"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="245" y="117"/>
+			<point x="285" y="217"/>
+			<point x="450" y="130"/>
+			<point x="244" y="116"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="1" y="243"/>
+			<point x="27" y="246"/>
+			<point x="45" y="326"/>
+			<point x="9" y="340"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="30" y="389"/>
+			<point x="56" y="377"/>
+			<point x="63" y="422"/>
+			<point x="56" y="428"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="84" y="257"/>
+			<point x="172" y="269"/>
+			<point x="94" y="302"/>
+			<point x="85" y="256"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="106" y="355"/>
+			<point x="149" y="336"/>
+			<point x="110" y="374"/>
+			<point x="107" y="355"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="125" y="439"/>
+			<point x="151" y="412"/>
+			<point x="125" y="448"/>
+			<point x="122" y="439"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="150" y="460"/>
+			<point x="256" y="307"/>
+			<point x="301" y="507"/>
+			<point x="150" y="460"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="359" y="517"/>
+			<point x="305" y="289"/>
+			<point x="530" y="318"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="533" y="251"/>
+			<point x="362" y="238"/>
+			<point x="510" y="157"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="114" y="485"/>
+			<point x="273" y="259"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="451" y="72"/>
+			<point x="219" y="52"/>
+			<point x="221" y="61"/>
+			<point x="450" y="74"/>
+		</Polyline>
+		<Label Caption="&#9650;Багал" x="110" y="473" angle="0"/>
+		<Polyline ps="Dot">
+			<point x="174" y="18"/>
+			<point x="271" y="254"/>
+		</Polyline>
+		<Polyline ps="Dot"/>
+		<Polyline ps="Dot"/>
+		<Polyline ps="Dot"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Dot">
+			<point x="33" y="137"/>
+			<point x="277" y="250"/>
+			<point x="528" y="270"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="25" y="156"/>
+			<point x="277" y="251"/>
+			<point x="532" y="283"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="7" y="210"/>
+			<point x="276" y="252"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="19" y="363"/>
+			<point x="275" y="251"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="72" y="451"/>
+			<point x="278" y="254"/>
+			<point x="496" y="129"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="114" y="486"/>
+			<point x="281" y="254"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="234" y="2"/>
+			<point x="306" y="178"/>
+			<point x="466" y="87"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="134" y="34"/>
+			<point x="185" y="151"/>
+			<point x="61" y="94"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="1" y="260"/>
+			<point x="82" y="275"/>
+			<point x="4" y="307"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="139" y="502"/>
+			<point x="247" y="346"/>
+			<point x="288" y="532"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="393" y="507"/>
+			<point x="346" y="315"/>
+			<point x="528" y="336"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="530" y="215"/>
+			<point x="456" y="210"/>
+			<point x="520" y="176"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="184" y="15"/>
+			<point x="279" y="253"/>
+			<point x="340" y="522"/>
+		</Polyline>
+	</Scale>
+	<Scale Value="5"/>
+</root>

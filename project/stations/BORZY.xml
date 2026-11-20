@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="BORZY" Caption="Борзя" AMSG="АМЦ  Иркутск" Lat="50,38" Lon="116,52" MailTo="" Start="0" Center="false" Index="30965" HMS="РС10 ЗББО" CGMS="RUCH" UGMS="RUCH" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Борзя" x="299" y="247" angle="0"/>
+		<Label Caption="&#9650;KURUN" x="356" y="269" angle="0"/>
+		<Label Caption="&#9650;NEKLU" x="162" y="208" angle="0"/>
+		<Label Caption="&#9650;DISEG" x="372" y="40" angle="0"/>
+		<Label Caption="&#9650;SULOK" x="133" y="414" angle="0"/>
+		<Label Caption="&#9650;BADEK" x="318" y="309" angle="0"/>
+		<Label Caption="&#9650;BIGMA" x="160" y="290" angle="0"/>
+		<Label Caption="&#9650;" x="498" y="292" angle="0"/>
+		<Label Caption="&#9650;DILES" x="232" y="306" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="203" y="6"/>
+			<point x="150" y="420"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="27" y="148"/>
+			<point x="271" y="263"/>
+			<point x="531" y="309"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="223"/>
+			<point x="151" y="416"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="391" y="30"/>
+			<point x="279" y="262"/>
+			<point x="174" y="395"/>
+			<point x="152" y="416"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="454" y="458"/>
+			<point x="277" y="267"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="456" y="78"/>
+			<point x="281" y="263"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="455" y="78"/>
+			<point x="466" y="448"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="191" y="13"/>
+			<point x="138" y="417"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="215" y="4"/>
+			<point x="165" y="404"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="362" y="18"/>
+			<point x="445" y="455"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="392" y="34"/>
+			<point x="465" y="404"/>
+			<point x="523" y="185"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="531" y="263"/>
+			<point x="497" y="406"/>
+		</Polyline>
+		<Label Caption="N615" x="145" y="397" angle="800"/>
+		<Label Caption="B910" x="139" y="287" angle="800"/>
+		<Label Caption="B161" x="192" y="342" angle="600"/>
+		<Label Caption="A810" x="400" y="360" angle="-500"/>
+		<Label Caption="G492" x="449" y="165" angle="-850"/>
+		<Label Caption="T656" x="410" y="164" angle="-800"/>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="&#9650; NEKLU" x="83" y="150" angle="0"/>
+		<Label Caption="&#9650; BADEK" x="382" y="351" angle="0"/>
+		<Label Caption="&#9650; BIGMA" x="62" y="308" angle="0"/>
+		<Label Caption="&#9650;DILES" x="202" y="346" angle="0"/>
+		<Label Caption="B161" x="141" y="415" angle="600"/>
+		<Label Caption="B910" x="38" y="336" angle="800"/>
+		<Label Caption="Борзя" x="299" y="247" angle="0"/>
+		<Label Caption="&#9650; " x="279" y="248" angle="0"/>
+		<Label Caption="NAREM" x="273" y="230" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="36" y="135"/>
+			<point x="80" y="157"/>
+			<point x="284" y="259"/>
+			<point x="534" y="305"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="108" y="482"/>
+			<point x="282" y="260"/>
+			<point x="393" y="29"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="457" y="76"/>
+			<point x="286" y="257"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="282" y="258"/>
+			<point x="284" y="259"/>
+			<point x="390" y="361"/>
+			<point x="460" y="448"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="102" y="60"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="101" y="60"/>
+			<point x="70" y="314"/>
+			<point x="55" y="430"/>
+		</Polyline>
+		<Label Caption="N615" x="67" y="248" angle="800"/>
+		<Polyline ps="Dot">
+			<point x="70" y="90"/>
+			<point x="39" y="411"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="129" y="38"/>
+			<point x="78" y="452"/>
+		</Polyline>
+	</Scale>
+</root>

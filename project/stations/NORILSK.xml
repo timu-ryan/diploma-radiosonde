@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="NORILSK" Caption="Норильск" AMSG="Красноярск" Lat="69,33" Lon="88,30" MailTo="" Start="0" Center="false" Index="23078" HMS="РС21 КРЯР" CGMS="RUKR" UGMS="RUKR" Lastmess="4"/>
+	<Scale Value="5"/>
+	<Scale Value="5"/>
+</root>

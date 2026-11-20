@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="BOLOGOE" Caption="Бологое" AMSG="Тверь" Start="0" Lat="57,885626" Lon="34,053776" MailTo="" Center="false" Index="26298" HMS="РС10 МОТВ" CGMS="RUTW" UGMS="RUMO" Lastmess="4"/>
+	<Scale Value="10"/>
+	<Scale Value="5"/>
+</root>

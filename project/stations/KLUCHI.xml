@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KLUCHI" Caption="Ключи" AMSG="Елизово" Start="0" Lat="56,322434" Lon="160,844915" MailTo="" Center="true" Index="32389" HMS="РА10 ПТРП" CGMS="RUPK" UGMS="RUPK" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="120" y="42"/>
+			<point x="273" y="243"/>
+			<point x="533" y="256"/>
+		</Polyline>
+		<Polyline>
+			<point x="98" y="61"/>
+			<point x="226" y="227"/>
+			<point x="26" y="156"/>
+		</Polyline>
+		<Polyline>
+			<point x="17" y="177"/>
+			<point x="173" y="236"/>
+			<point x="53" y="425"/>
+		</Polyline>
+		<Polyline>
+			<point x="71" y="448"/>
+			<point x="188" y="264"/>
+			<point x="455" y="284"/>
+			<point x="534" y="284"/>
+		</Polyline>
+		<Polyline>
+			<point x="16" y="359"/>
+			<point x="63" y="383"/>
+			<point x="113" y="318"/>
+			<point x="184" y="244"/>
+			<point x="491" y="265"/>
+			<point x="531" y="264"/>
+		</Polyline>
+		<Polyline>
+			<point x="73" y="448"/>
+			<point x="67" y="387"/>
+			<point x="117" y="327"/>
+			<point x="186" y="250"/>
+			<point x="468" y="270"/>
+			<point x="533" y="272"/>
+		</Polyline>
+		<Polyline>
+			<point x="19" y="368"/>
+			<point x="61" y="391"/>
+			<point x="68" y="443"/>
+		</Polyline>
+		<Polyline>
+			<point x="435" y="473"/>
+			<point x="478" y="336"/>
+			<point x="534" y="284"/>
+		</Polyline>
+		<Polyline>
+			<point x="443" y="469"/>
+			<point x="482" y="338"/>
+			<point x="530" y="295"/>
+		</Polyline>
+		<Label Caption="В219" x="132" y="71" angle="-500"/>
+		<Label Caption="В216" x="51" y="168" angle="-200"/>
+		<Label Caption="В299" x="75" y="402" angle="500"/>
+		<Label Caption="В219" x="491" y="269" angle="0"/>
+		<Label Caption="КРАНС" x="38" y="356" angle="0"/>
+		<Label Caption="ДОМУД" x="417" y="285" angle="0"/>
+		<Label Caption="РОГИТ" x="184" y="273" angle="0"/>
+		<Label Caption="МОЛОБ" x="244" y="229" angle="0"/>
+		<Airway Caption="В219-1">
+			<point x="532" y="283"/>
+			<point x="269" y="272"/>
+			<point x="258" y="270"/>
+		</Airway>
+		<Airway Caption="В219-2">
+			<point x="260" y="270"/>
+			<point x="226" y="228"/>
+			<point x="98" y="61"/>
+		</Airway>
+		<Airway Caption="В219-3">
+			<point x="121" y="46"/>
+			<point x="271" y="242"/>
+		</Airway>
+		<Airway Caption="В219-4">
+			<point x="275" y="245"/>
+			<point x="531" y="256"/>
+		</Airway>
+		<Airway Caption="В216-1">
+			<point x="26" y="152"/>
+			<point x="221" y="227"/>
+		</Airway>
+		<Airway Caption="В216-2">
+			<point x="222" y="227"/>
+			<point x="250" y="266"/>
+		</Airway>
+		<Airway Caption="В216-3">
+			<point x="17" y="178"/>
+			<point x="172" y="236"/>
+			<point x="247" y="264"/>
+		</Airway>
+		<Airway Caption="В299-1">
+			<point x="55" y="427"/>
+			<point x="171" y="241"/>
+		</Airway>
+		<Airway Caption="В299-2">
+			<point x="75" y="446"/>
+			<point x="194" y="249"/>
+		</Airway>
+		<Airway Caption="В299-3">
+			<point x="193" y="248"/>
+			<point x="172" y="238"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="132" y="38"/>
+			<point x="275" y="227"/>
+			<point x="529" y="244"/>
+		</Polyline>
+		<Polyline>
+			<point x="87" y="70"/>
+			<point x="186" y="196"/>
+			<point x="31" y="139"/>
+		</Polyline>
+		<Polyline>
+			<point x="13" y="188"/>
+			<point x="81" y="212"/>
+			<point x="7" y="326"/>
+		</Polyline>
+		<Polyline>
+			<point x="31" y="391"/>
+			<point x="112" y="265"/>
+			<point x="531" y="298"/>
+		</Polyline>
+		<Polyline>
+			<point x="12" y="339"/>
+			<point x="102" y="240"/>
+			<point x="102" y="240"/>
+			<point x="266" y="258"/>
+			<point x="532" y="272"/>
+		</Polyline>
+		<Polyline>
+			<point x="6" y="324"/>
+			<point x="100" y="229"/>
+			<point x="267" y="246"/>
+			<point x="530" y="260"/>
+		</Polyline>
+		<Label Caption="В219" x="139" y="77" angle="-500"/>
+		<Label Caption="В216" x="58" y="169" angle="-200"/>
+		<Label Caption="В229" x="41" y="325" angle="500"/>
+		<Label Caption="В229" x="425" y="267" angle="-50"/>
+		<Label Caption="КД309" x="363" y="249" angle="-50"/>
+		<Label Caption="КНИРА" x="54" y="213" angle="0"/>
+		<Label Caption="РОГИТ" x="107" y="251" angle="0"/>
+		<Label Caption="МОЛОБ" x="242" y="216" angle="0"/>
+		<Label Caption="КАМАИ" x="470" y="271" angle="0"/>
+	</Scale>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="DYOMA" Caption="Дёма" AMSG="Уфа" Start="0" Lat="54,71139" Lon="055,5226" MailTo="amsg-ufa@ya.ru" Center="false" Index="28722" HMS="РА10 УФАА" CGMS="RUUF" UGMS="RUUF" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Дёма" x="277" y="242" angle="0"/>
+		<Label Caption="&#9830;UWUU" x="294" y="287" angle="0"/>
+		<Polyline>
+			<point x="126" y="37"/>
+			<point x="197" y="43"/>
+			<point x="355" y="92"/>
+			<point x="497" y="225"/>
+			<point x="515" y="368"/>
+			<point x="440" y="464"/>
+			<point x="259" y="512"/>
+			<point x="92" y="419"/>
+			<point x="14" y="225"/>
+			<point x="20" y="201"/>
+			<point x="26" y="188"/>
+			<point x="81" y="97"/>
+			<point x="113" y="51"/>
+		</Polyline>
+		<Label Caption="&#9650;UBIRA" x="195" y="33" angle="0"/>
+		<Label Caption="&#9650;IPROK" x="397" y="125" angle="0"/>
+		<Label Caption="&#9650;ASPUM" x="494" y="215" angle="0"/>
+		<Label Caption="&#9650;MILUN" x="435" y="458" angle="0"/>
+		<Label Caption="&#9650;TUSEB" x="255" y="502" angle="0"/>
+		<Label Caption="&#9650;GAPMA" x="73" y="372" angle="0"/>
+		<Label Caption="&#9650;DILUP" x="54" y="330" angle="0"/>
+		<Label Caption="&#9650;TILMU" x="16" y="200" angle="0"/>
+		<Label Caption="&#9650;OGMEL" x="77" y="91" angle="0"/>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="&#9830;UWUU" x="312" y="331" angle="0"/>
+		<Label Caption="Дёма" x="278" y="242" angle="0"/>
+	</Scale>
+</root>

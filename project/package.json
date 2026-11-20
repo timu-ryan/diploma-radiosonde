@@ -1,0 +1,33 @@
+{
+  "name": "radiosonde-drift",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Прогноз смещения радиозонда: бэкенд на Fastify + фронтенд на React",
+  "workspaces": [
+    "packages/shared",
+    "packages/server",
+    "packages/web"
+  ],
+  "scripts": {
+    "dev": "npm run build -w @rs/shared && concurrently -n shared,server,web -c gray,cyan,magenta \"npm:dev:shared\" \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:shared": "npm run dev -w @rs/shared",
+    "dev:server": "npm run dev -w @rs/server",
+    "dev:web": "npm run dev -w @rs/web",
+    "build": "npm run build -w @rs/shared && npm run build -w @rs/server && npm run build -w @rs/web",
+    "start": "npm run start -w @rs/server",
+    "clean": "rm -rf packages/*/dist packages/*/tsconfig.tsbuildinfo",
+    "test": "vitest run",
+    "user": "npm run build -w @rs/shared && npm run user -w @rs/server --",
+    "typecheck": "npm run build -w @rs/shared && tsc -p packages/server/tsconfig.json --noEmit && tsc -p packages/web/tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.6",
+    "vitest": "^4.1.11"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

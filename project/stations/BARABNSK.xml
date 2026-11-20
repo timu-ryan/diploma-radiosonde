@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="BARABNSK" Caption="Барабинск" AMSG="ЗАМЦ Новосибирск" Lat="55,35" Lon="78,32" MailTo="" Start="0" Center="false" Index="29612" HMS="РС11 НВСБ" CGMS="RUNW" UGMS="RUNW" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Solid">
+			<point x="327" y="5"/>
+			<point x="508" y="150"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="68" y="84"/>
+			<point x="518" y="173"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="23" y="168"/>
+			<point x="520" y="177"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="16" y="174"/>
+			<point x="523" y="348"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="209"/>
+			<point x="261" y="260"/>
+			<point x="530" y="304"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="2" y="234"/>
+			<point x="267" y="263"/>
+			<point x="533" y="286"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="1" y="291"/>
+			<point x="267" y="263"/>
+			<point x="523" y="187"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="11" y="346"/>
+			<point x="269" y="262"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="2" y="294"/>
+			<point x="146" y="389"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="7" y="335"/>
+			<point x="144" y="388"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="13" y="352"/>
+			<point x="144" y="390"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="14" y="363"/>
+			<point x="143" y="389"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="26" y="387"/>
+			<point x="146" y="392"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="43" y="415"/>
+			<point x="144" y="392"/>
+			<point x="520" y="351"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="79" y="459"/>
+			<point x="495" y="406"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="148" y="390"/>
+			<point x="318" y="528"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="149" y="391"/>
+			<point x="386" y="507"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="149" y="390"/>
+			<point x="468" y="443"/>
+		</Polyline>
+		<Label Caption="R362" x="402" y="55" angle="-350"/>
+		<Label Caption="A308" x="332" y="127" angle="-100"/>
+		<Label Caption="G825" x="364" y="164" angle="0"/>
+		<Label Caption="G828" x="388" y="216" angle="150"/>
+		<Label Caption="G828" x="88" y="312" angle="150"/>
+		<Label Caption="B936" x="488" y="267" angle="-50"/>
+		<Label Caption="R814" x="387" y="292" angle="-150"/>
+		<Label Caption="R814" x="92" y="193" angle="-150"/>
+		<Label Caption="B926" x="24" y="203" angle="-50"/>
+		<Label Caption="A487" x="64" y="234" angle="-10"/>
+		<Label Caption="B234" x="87" y="274" angle="50"/>
+		<Label Caption="A489" x="88" y="339" angle="-250"/>
+		<Label Caption="A357" x="295" y="501" angle="-300"/>
+		<Label Caption="A489, P983" x="323" y="466" angle="-300"/>
+		<Label Caption="B944" x="321" y="361" angle="50"/>
+		<Label Caption="B808" x="424" y="404" angle="50"/>
+		<Label Caption="L158, R480" x="423" y="427" angle="-50"/>
+		<Label Caption="Барабинск" x="276" y="247" angle="0"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="83" y="71"/>
+			<point x="449" y="77"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="19" y="163"/>
+			<point x="266" y="251"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="8" y="198"/>
+			<point x="266" y="251"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="224"/>
+			<point x="268" y="252"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="1" y="282"/>
+			<point x="265" y="253"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="9" y="340"/>
+			<point x="263" y="253"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="271" y="253"/>
+			<point x="518" y="177"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="275" y="252"/>
+			<point x="532" y="277"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="271" y="251"/>
+			<point x="527" y="339"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="272" y="253"/>
+			<point x="532" y="296"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="137" y="498"/>
+			<point x="448" y="466"/>
+		</Polyline>
+		<Label Caption="G825" x="396" y="65" angle="0"/>
+		<Label Caption="G828" x="467" y="182" angle="150"/>
+		<Label Caption="B936" x="495" y="262" angle="-50"/>
+		<Label Caption="R814" x="473" y="310" angle="-100"/>
+		<Label Caption="B944" x="361" y="461" angle="30"/>
+		<Label Caption="B828" x="35" y="195" angle="-50"/>
+		<Label Caption="Барабинск" x="274" y="243" angle="0"/>
+	</Scale>
+</root>

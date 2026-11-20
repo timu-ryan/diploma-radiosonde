@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KRNKL" Caption="Кренкель" AMSG="Мурманск" Start="0" Lat="80,63" Lon="58,06" MailTo="" Center="false" Index="20046" HMS="РС12 МУРМ" CGMS="RUMR" UGMS="RUMU" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="АС Кренкеля" x="276" y="249" angle="0"/>
+		<Label Caption="H990" x="94" y="97" angle="-250"/>
+		<Label Caption="B52" x="282" y="42" angle="450"/>
+		<Label Caption="T572" x="39" y="312" angle="-200"/>
+		<Label Caption="Л165" x="444" y="59" angle="-500"/>
+		<Polyline>
+			<point x="63" y="94"/>
+			<point x="309" y="249"/>
+		</Polyline>
+		<Polyline>
+			<point x="339" y="271"/>
+			<point x="511" y="379"/>
+		</Polyline>
+		<Polyline>
+			<point x="9" y="327"/>
+			<point x="418" y="488"/>
+		</Polyline>
+		<Polyline>
+			<point x="3" y="282"/>
+			<point x="350" y="15"/>
+		</Polyline>
+		<Polyline>
+			<point x="388" y="26"/>
+			<point x="506" y="146"/>
+		</Polyline>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="H990" x="291" y="177" angle="-350"/>
+		<Label Caption="АС Кренкеля" x="276" y="249" angle="0"/>
+		<Polyline>
+			<point x="87" y="71"/>
+			<point x="522" y="345"/>
+		</Polyline>
+		<Polyline/>
+	</Scale>
+</root>

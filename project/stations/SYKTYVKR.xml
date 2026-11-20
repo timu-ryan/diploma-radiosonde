@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="SYKTYVKR" Caption="Сыктывкар" AMSG="Коми" Start="0" Lat="61,68" Lon="50,78" MailTo="" Center="false" Index="23804" HMS="РС10 АРСК" CGMS="RUSW" UGMS="RUAA" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="156" y="192"/>
+			<point x="219" y="246"/>
+			<point x="135" y="259"/>
+		</Polyline>
+		<Polyline>
+			<point x="144" y="311"/>
+			<point x="187" y="308"/>
+			<point x="151" y="331"/>
+		</Polyline>
+		<Polyline>
+			<point x="165" y="352"/>
+			<point x="249" y="300"/>
+			<point x="207" y="383"/>
+		</Polyline>
+		<Polyline>
+			<point x="293" y="396"/>
+			<point x="296" y="328"/>
+			<point x="338" y="384"/>
+		</Polyline>
+		<Polyline>
+			<point x="382" y="352"/>
+			<point x="345" y="302"/>
+			<point x="400" y="322"/>
+		</Polyline>
+		<Polyline>
+			<point x="411" y="296"/>
+			<point x="343" y="270"/>
+			<point x="411" y="261"/>
+		</Polyline>
+		<Polyline>
+			<point x="404" y="219"/>
+			<point x="351" y="231"/>
+		</Polyline>
+		<Polyline>
+			<point x="405" y="219"/>
+			<point x="351" y="231"/>
+			<point x="392" y="200"/>
+		</Polyline>
+		<Polyline>
+			<point x="382" y="180"/>
+			<point x="336" y="211"/>
+			<point x="365" y="168"/>
+		</Polyline>
+		<Polyline>
+			<point x="346" y="151"/>
+			<point x="315" y="191"/>
+			<point x="327" y="145"/>
+		</Polyline>
+		<Polyline>
+			<point x="274" y="135"/>
+			<point x="270" y="215"/>
+			<point x="194" y="157"/>
+		</Polyline>
+		<Label Caption="Емва" x="277" y="176" angle="870"/>
+		<Label Caption="Аблар" x="190" y="170" angle="-400"/>
+		<Label Caption="Адиса" x="141" y="277" angle="90"/>
+		<Label Caption="Лерта" x="158" y="332" angle="250"/>
+		<Label Caption="Обани" x="213" y="382" angle="600"/>
+		<Label Caption="Ротат" x="271" y="390" angle="890"/>
+		<Label Caption="Сулиб" x="335" y="318" angle="-550"/>
+		<Label Caption="Октил" x="367" y="287" angle="-200"/>
+		<Label Caption="Букет" x="361" y="253" angle="50"/>
+		<Label Caption="Осгор" x="356" y="237" angle="150"/>
+		<Label Caption="Медер" x="338" y="211" angle="300"/>
+		<Label Caption="Ухта" x="319" y="191" angle="500"/>
+		<Label Caption="Неган" x="295" y="175" angle="800"/>
+		<Airway Caption="Аблар-1">
+			<point x="195" y="156"/>
+			<point x="270" y="214"/>
+		</Airway>
+		<Airway Caption="Аблар-2">
+			<point x="161" y="194"/>
+			<point x="221" y="246"/>
+		</Airway>
+		<Airway Caption="Аблар-3">
+			<point x="269" y="214"/>
+			<point x="265" y="261"/>
+		</Airway>
+		<Airway Caption="Аблар-4">
+			<point x="220" y="246"/>
+			<point x="265" y="261"/>
+		</Airway>
+		<Airway Caption="Адиса-1">
+			<point x="137" y="257"/>
+			<point x="217" y="248"/>
+		</Airway>
+		<Airway Caption="Адиса-2">
+			<point x="144" y="310"/>
+			<point x="186" y="307"/>
+		</Airway>
+		<Airway Caption="Адиса-3">
+			<point x="186" y="308"/>
+			<point x="260" y="270"/>
+		</Airway>
+		<Airway Caption="Адиса-4">
+			<point x="218" y="247"/>
+			<point x="260" y="263"/>
+		</Airway>
+		<Airway Caption="Адиса-5">
+			<point x="259" y="268"/>
+			<point x="260" y="262"/>
+		</Airway>
+		<Airway Caption="Лерта-1">
+			<point x="154" y="330"/>
+			<point x="187" y="310"/>
+		</Airway>
+		<Airway Caption="Лерта-2">
+			<point x="165" y="351"/>
+			<point x="250" y="300"/>
+		</Airway>
+		<Airway Caption="Лерта-3">
+			<point x="251" y="297"/>
+			<point x="264" y="276"/>
+		</Airway>
+		<Airway Caption="Лерта-4">
+			<point x="187" y="309"/>
+			<point x="260" y="272"/>
+		</Airway>
+		<Airway Caption="Лерта-5">
+			<point x="262" y="276"/>
+			<point x="260" y="272"/>
+		</Airway>
+		<Airway Caption="Обани-1">
+			<point x="210" y="382"/>
+			<point x="252" y="300"/>
+		</Airway>
+		<Airway Caption="Обани-2">
+			<point x="244" y="397"/>
+			<point x="268" y="306"/>
+		</Airway>
+		<Airway Caption="Обани-3">
+			<point x="251" y="301"/>
+			<point x="265" y="276"/>
+		</Airway>
+		<Airway Caption="Обани-4">
+			<point x="267" y="310"/>
+			<point x="268" y="278"/>
+		</Airway>
+		<Airway Caption="Обани-5">
+			<point x="264" y="277"/>
+			<point x="268" y="277"/>
+		</Airway>
+		<Airway Caption="Ротат-1">
+			<point x="294" y="396"/>
+			<point x="297" y="329"/>
+		</Airway>
+		<Airway Caption="Ротат-2">
+			<point x="260" y="395"/>
+			<point x="271" y="317"/>
+		</Airway>
+		<Airway Caption="Ротат-3">
+			<point x="298" y="329"/>
+			<point x="275" y="276"/>
+		</Airway>
+		<Airway Caption="Ротат-4">
+			<point x="270" y="321"/>
+			<point x="270" y="277"/>
+		</Airway>
+		<Airway Caption="Ротат-5">
+			<point x="270" y="276"/>
+			<point x="275" y="276"/>
+		</Airway>
+		<Airway Caption="Сулиб-1">
+			<point x="383" y="352"/>
+			<point x="346" y="301"/>
+		</Airway>
+		<Airway Caption="Сулиб-2">
+			<point x="335" y="376"/>
+			<point x="299" y="326"/>
+		</Airway>
+		<Airway Caption="Сулиб-3">
+			<point x="347" y="301"/>
+			<point x="280" y="269"/>
+		</Airway>
+		<Airway Caption="Сулиб-4">
+			<point x="300" y="327"/>
+			<point x="276" y="275"/>
+		</Airway>
+		<Airway Caption="Сулиб-5">
+			<point x="276" y="275"/>
+			<point x="279" y="266"/>
+		</Airway>
+		<Airway Caption="Октип-1">
+			<point x="412" y="295"/>
+			<point x="343" y="270"/>
+		</Airway>
+		<Airway Caption="Октип-2">
+			<point x="399" y="320"/>
+			<point x="344" y="296"/>
+		</Airway>
+		<Airway Caption="Октип-3">
+			<point x="343" y="268"/>
+			<point x="279" y="265"/>
+		</Airway>
+		<Airway Caption="Октип-4">
+			<point x="345" y="294"/>
+			<point x="279" y="265"/>
+		</Airway>
+		<Airway Caption="Букет-1">
+			<point x="410" y="260"/>
+			<point x="342" y="263"/>
+		</Airway>
+		<Airway Caption="Букет-2">
+			<point x="406" y="239"/>
+			<point x="338" y="249"/>
+		</Airway>
+		<Airway Caption="Букет-3">
+			<point x="344" y="262"/>
+			<point x="279" y="260"/>
+		</Airway>
+		<Airway Caption="Букет-4">
+			<point x="339" y="248"/>
+			<point x="278" y="257"/>
+		</Airway>
+		<Airway Caption="Букет-5">
+			<point x="278" y="257"/>
+			<point x="280" y="260"/>
+		</Airway>
+		<Airway Caption="Осгор-1">
+			<point x="407" y="236"/>
+			<point x="274" y="253"/>
+		</Airway>
+		<Airway Caption="Осгор-2">
+			<point x="404" y="219"/>
+			<point x="354" y="230"/>
+		</Airway>
+		<Airway Caption="Медер-1">
+			<point x="392" y="202"/>
+			<point x="357" y="226"/>
+		</Airway>
+		<Airway Caption="Медер-2">
+			<point x="275" y="249"/>
+			<point x="358" y="225"/>
+		</Airway>
+		<Airway Caption="Медер-3">
+			<point x="381" y="179"/>
+			<point x="338" y="209"/>
+		</Airway>
+		<Airway Caption="Медер-4">
+			<point x="337" y="210"/>
+			<point x="276" y="248"/>
+		</Airway>
+		<Airway Caption="Ухта-1">
+			<point x="365" y="167"/>
+			<point x="340" y="203"/>
+		</Airway>
+		<Airway Caption="Ухта-2">
+			<point x="348" y="152"/>
+			<point x="315" y="191"/>
+		</Airway>
+		<Airway Caption="Ухта-3">
+			<point x="272" y="246"/>
+			<point x="340" y="201"/>
+		</Airway>
+		<Airway Caption="Ухта-4">
+			<point x="270" y="244"/>
+			<point x="316" y="189"/>
+		</Airway>
+		<Airway Caption="Наган-1">
+			<point x="326" y="145"/>
+			<point x="318" y="182"/>
+		</Airway>
+		<Airway Caption="Наган-2">
+			<point x="301" y="139"/>
+			<point x="275" y="231"/>
+		</Airway>
+		<Airway Caption="Наган-3">
+			<point x="274" y="229"/>
+			<point x="318" y="185"/>
+		</Airway>
+		<Airway Caption="Емва-1">
+			<point x="274" y="136"/>
+			<point x="269" y="209"/>
+		</Airway>
+		<Airway Caption="Емва-2">
+			<point x="298" y="138"/>
+			<point x="274" y="222"/>
+		</Airway>
+		<Airway Caption="Емва-3">
+			<point x="274" y="221"/>
+			<point x="271" y="211"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="270" y="1"/>
+			<point x="257" y="175"/>
+			<point x="109" y="54"/>
+		</Polyline>
+		<Polyline>
+			<point x="39" y="127"/>
+			<point x="157" y="227"/>
+		</Polyline>
+		<Polyline>
+			<point x="15" y="357"/>
+			<point x="87" y="348"/>
+			<point x="28" y="387"/>
+		</Polyline>
+		<Polyline>
+			<point x="56" y="433"/>
+			<point x="214" y="334"/>
+			<point x="132" y="497"/>
+		</Polyline>
+		<Polyline>
+			<point x="186" y="518"/>
+			<point x="252" y="382"/>
+			<point x="252" y="534"/>
+		</Polyline>
+		<Polyline>
+			<point x="304" y="534"/>
+			<point x="304" y="387"/>
+			<point x="395" y="509"/>
+		</Polyline>
+		<Polyline>
+			<point x="481" y="446"/>
+		</Polyline>
+		<Polyline>
+			<point x="474" y="436"/>
+			<point x="403" y="340"/>
+			<point x="511" y="376"/>
+		</Polyline>
+		<Polyline>
+			<point x="529" y="326"/>
+			<point x="402" y="281"/>
+			<point x="536" y="269"/>
+		</Polyline>
+		<Polyline>
+			<point x="517" y="172"/>
+			<point x="421" y="198"/>
+			<point x="503" y="144"/>
+		</Polyline>
+		<Polyline>
+			<point x="475" y="99"/>
+			<point x="385" y="157"/>
+			<point x="447" y="69"/>
+		</Polyline>
+		<Polyline>
+			<point x="404" y="39"/>
+			<point x="346" y="117"/>
+			<point x="375" y="23"/>
+		</Polyline>
+		<Label Caption="Аблар" x="96" y="83" angle="-400"/>
+		<Label Caption="Адиса" x="18" y="287" angle="90"/>
+		<Label Caption="Лерта" x="48" y="392" angle="250"/>
+		<Label Caption="Обани" x="149" y="490" angle="600"/>
+		<Label Caption="Ротат" x="257" y="511" angle="890"/>
+		<Label Caption="Сулиб" x="412" y="412" angle="-550"/>
+		<Label Caption="Октил" x="454" y="321" angle="-200"/>
+		<Label Caption="Букет" x="473" y="244" angle="50"/>
+		<Label Caption="Осгор" x="465" y="197" angle="150"/>
+		<Label Caption="Медер" x="434" y="146" angle="300"/>
+		<Label Caption="Ухта" x="384" y="95" angle="500"/>
+		<Label Caption="Неган" x="328" y="68" angle="800"/>
+		<Label Caption="Емва" x="284" y="51" angle="870"/>
+	</Scale>
+</root>

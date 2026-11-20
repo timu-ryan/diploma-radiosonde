@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KURSK" Caption="Курск" AMSG="Курск" Start="0" Lat="51,730361" Lon="36,192647" MailTo="" Center="false" Index="34009" HMS="РС11 КУРС" CGMS="RUKU" UGMS="RUKU" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="158" y="19"/>
+			<point x="281" y="274"/>
+			<point x="283" y="290"/>
+			<point x="212" y="529"/>
+		</Polyline>
+		<Polyline>
+			<point x="209" y="4"/>
+			<point x="265" y="135"/>
+			<point x="252" y="1"/>
+		</Polyline>
+		<Polyline>
+			<point x="304" y="2"/>
+			<point x="316" y="101"/>
+			<point x="331" y="5"/>
+		</Polyline>
+		<Polyline>
+			<point x="382" y="24"/>
+			<point x="348" y="242"/>
+			<point x="523" y="182"/>
+		</Polyline>
+		<Polyline>
+			<point x="534" y="236"/>
+			<point x="425" y="276"/>
+			<point x="534" y="286"/>
+		</Polyline>
+		<Polyline>
+			<point x="525" y="340"/>
+			<point x="406" y="327"/>
+			<point x="509" y="388"/>
+		</Polyline>
+		<Polyline>
+			<point x="478" y="434"/>
+			<point x="323" y="328"/>
+			<point x="260" y="532"/>
+		</Polyline>
+		<Label Caption="6" x="181" y="26" angle="0"/>
+		<Label Caption="1" x="272" y="20" angle="0"/>
+		<Label Caption="1&quot;А&quot;" x="339" y="32" angle="0"/>
+		<Label Caption="2" x="496" y="205" angle="0"/>
+		<Label Caption="3" x="491" y="296" angle="0"/>
+		<Label Caption="4" x="460" y="380" angle="0"/>
+		<Label Caption="5" x="230" y="502" angle="0"/>
+		<Label Caption="(325°)" x="182" y="40" angle="0"/>
+		<Label Caption="(355°)" x="267" y="34" angle="0"/>
+		<Label Caption="(008°)" x="338" y="48" angle="0"/>
+		<Label Caption="(75°)" x="494" y="222" angle="0"/>
+		<Label Caption="(96°)" x="489" y="312" angle="0"/>
+		<Label Caption="(141°)" x="452" y="395" angle="0"/>
+		<Label Caption="(195°)" x="223" y="517" angle="0"/>
+		<Label Caption="&quot;Восточный&quot;" x="309" y="270" angle="0"/>
+		<Airway Caption="6-1">
+			<point x="161" y="22"/>
+			<point x="283" y="273"/>
+		</Airway>
+		<Airway Caption="6-2">
+			<point x="210" y="7"/>
+			<point x="266" y="134"/>
+			<point x="296" y="232"/>
+		</Airway>
+		<Airway Caption="6-3">
+			<point x="281" y="271"/>
+			<point x="296" y="232"/>
+		</Airway>
+		<Airway Caption="5-1">
+			<point x="212" y="527"/>
+			<point x="284" y="292"/>
+		</Airway>
+		<Airway Caption="5-2">
+			<point x="284" y="288"/>
+			<point x="281" y="272"/>
+		</Airway>
+		<Airway Caption="5-3">
+			<point x="261" y="530"/>
+			<point x="324" y="328"/>
+		</Airway>
+		<Airway Caption="5-4">
+			<point x="325" y="327"/>
+			<point x="324" y="282"/>
+		</Airway>
+		<Airway Caption="5-5">
+			<point x="323" y="282"/>
+			<point x="282" y="271"/>
+		</Airway>
+		<Airway Caption="4-1">
+			<point x="477" y="432"/>
+			<point x="327" y="329"/>
+		</Airway>
+		<Airway Caption="4-2">
+			<point x="509" y="387"/>
+			<point x="407" y="327"/>
+		</Airway>
+		<Airway Caption="4-3">
+			<point x="408" y="326"/>
+			<point x="328" y="283"/>
+		</Airway>
+		<Airway Caption="4-4">
+			<point x="328" y="284"/>
+			<point x="327" y="328"/>
+		</Airway>
+		<Airway Caption="2-1">
+			<point x="522" y="182"/>
+			<point x="349" y="242"/>
+			<point x="283" y="267"/>
+		</Airway>
+		<Airway Caption="2-2">
+			<point x="533" y="236"/>
+			<point x="429" y="275"/>
+		</Airway>
+		<Airway Caption="2-3">
+			<point x="428" y="275"/>
+			<point x="330" y="280"/>
+		</Airway>
+		<Airway Caption="2-4">
+			<point x="328" y="278"/>
+			<point x="283" y="269"/>
+		</Airway>
+		<Airway Caption="3-1">
+			<point x="526" y="338"/>
+			<point x="412" y="327"/>
+		</Airway>
+		<Airway Caption="3-2">
+			<point x="533" y="285"/>
+			<point x="431" y="278"/>
+		</Airway>
+		<Airway Caption="3-3">
+			<point x="428" y="277"/>
+			<point x="335" y="282"/>
+		</Airway>
+		<Airway Caption="3-4">
+			<point x="409" y="326"/>
+			<point x="335" y="282"/>
+		</Airway>
+		<Airway Caption="1-1">
+			<point x="307" y="5"/>
+			<point x="316" y="99"/>
+		</Airway>
+		<Airway Caption="1-2">
+			<point x="318" y="98"/>
+			<point x="312" y="247"/>
+		</Airway>
+		<Airway Caption="1-3">
+			<point x="289" y="259"/>
+			<point x="313" y="245"/>
+		</Airway>
+		<Airway Caption="1-4">
+			<point x="287" y="255"/>
+			<point x="298" y="229"/>
+		</Airway>
+		<Airway Caption="1-5">
+			<point x="298" y="229"/>
+			<point x="265" y="126"/>
+		</Airway>
+		<Airway Caption="1-6">
+			<point x="265" y="126"/>
+			<point x="252" y="2"/>
+		</Airway>
+		<Airway Caption="1&quot;А&quot;-1">
+			<point x="383" y="27"/>
+			<point x="350" y="235"/>
+		</Airway>
+		<Airway Caption="1&quot;А&quot;-2">
+			<point x="316" y="246"/>
+			<point x="348" y="238"/>
+		</Airway>
+		<Airway Caption="1&quot;А&quot;-3">
+			<point x="331" y="10"/>
+			<point x="319" y="91"/>
+		</Airway>
+		<Airway Caption="1&quot;А&quot;-4">
+			<point x="318" y="92"/>
+			<point x="316" y="244"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="167" y="17"/>
+			<point x="293" y="280"/>
+			<point x="301" y="309"/>
+			<point x="234" y="534"/>
+		</Polyline>
+		<Polyline>
+			<point x="263" y="1"/>
+			<point x="265" y="7"/>
+		</Polyline>
+		<Polyline>
+			<point x="451" y="73"/>
+			<point x="429" y="221"/>
+			<point x="525" y="188"/>
+		</Polyline>
+		<Polyline>
+			<point x="467" y="446"/>
+			<point x="377" y="386"/>
+			<point x="331" y="524"/>
+		</Polyline>
+		<Label Caption="6" x="207" y="18" angle="0"/>
+		<Label Caption="1" x="289" y="14" angle="0"/>
+		<Label Caption="1&quot;A&quot;" x="397" y="59" angle="0"/>
+		<Label Caption="2" x="503" y="218" angle="0"/>
+		<Label Caption="3" x="506" y="286" angle="0"/>
+		<Label Caption="4" x="448" y="408" angle="0"/>
+		<Label Caption="5" x="287" y="492" angle="0"/>
+		<Label Caption="(325°)" x="204" y="38" angle="0"/>
+		<Label Caption="(355°)" x="285" y="34" angle="0"/>
+		<Label Caption="(008°)" x="397" y="79" angle="0"/>
+		<Label Caption="(75°)" x="498" y="235" angle="0"/>
+		<Label Caption="(96°)" x="502" y="304" angle="0"/>
+		<Label Caption="(141°)" x="452" y="426" angle="0"/>
+		<Label Caption="(195°)" x="279" y="508" angle="0"/>
+		<Label Caption="&quot;Восточный&quot;" x="351" y="274" angle="0"/>
+	</Scale>
+</root>

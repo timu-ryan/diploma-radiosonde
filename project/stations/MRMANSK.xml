@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="MRMANSK" Caption="Мурманск" AMSG="Мурманск" Lat="68,98333" Lon="33,13333" MailTo="" Center="false" Index="22008" HMS="РС14 МУРМ" CGMS="RUMR" UGMS="RUMU" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="P190" x="122" y="49" angle="0"/>
+		<Label Caption="T570" x="168" y="30" angle="0"/>
+		<Label Caption="T570" x="43" y="163" angle="0"/>
+		<Label Caption="P65" x="48" y="287" angle="0"/>
+		<Label Caption="N2" x="35" y="371" angle="0"/>
+		<Label Caption="P190" x="114" y="466" angle="0"/>
+		<Label Caption="P65" x="153" y="488" angle="0"/>
+		<Label Caption="P995" x="237" y="492" angle="0"/>
+		<Label Caption="T822" x="321" y="429" angle="0"/>
+		<Label Caption="T693" x="145" y="163" angle="0"/>
+		<Label Caption="P190" x="116" y="237" angle="0"/>
+		<Label Caption="Мурманск" x="275" y="247" angle="0"/>
+		<Label Caption="&#9650;KROTA" x="124" y="100" angle="0"/>
+		<Label Caption="&#9650;PELOR" x="116" y="363" angle="0"/>
+		<Label Caption="&#9650;GIRIP" x="190" y="436" angle="0"/>
+		<Label Caption="&#9650;ESOGA" x="222" y="424" angle="0"/>
+		<Label Caption="&#9650;ASGOR" x="223" y="397" angle="0"/>
+		<Label Caption="&#9650;ABDOL" x="294" y="394" angle="0"/>
+		<Label Caption="&#9650;LORPA" x="268" y="361" angle="0"/>
+		<Label Caption="&#9650;ABLIK" x="385" y="488" angle="0"/>
+		<Label Caption="&#9650;RAMUG" x="220" y="315" angle="0"/>
+		<Label Caption="&#9650;ULMER" x="193" y="259" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="197" y="10"/>
+			<point x="184" y="28"/>
+		</Polyline>
+		<Polyline>
+			<point x="172" y="44"/>
+			<point x="134" y="101"/>
+		</Polyline>
+		<Polyline>
+			<point x="133" y="30"/>
+			<point x="131" y="46"/>
+		</Polyline>
+		<Polyline>
+			<point x="131" y="64"/>
+			<point x="130" y="102"/>
+		</Polyline>
+		<Polyline>
+			<point x="125" y="112"/>
+			<point x="61" y="162"/>
+		</Polyline>
+		<Polyline>
+			<point x="42" y="176"/>
+			<point x="5" y="204"/>
+		</Polyline>
+		<Polyline>
+			<point x="5" y="217"/>
+			<point x="56" y="286"/>
+		</Polyline>
+		<Polyline>
+			<point x="69" y="303"/>
+			<point x="116" y="365"/>
+		</Polyline>
+		<Polyline>
+			<point x="130" y="116"/>
+			<point x="124" y="234"/>
+		</Polyline>
+		<Polyline>
+			<point x="124" y="254"/>
+			<point x="122" y="361"/>
+		</Polyline>
+		<Polyline>
+			<point x="121" y="386"/>
+			<point x="125" y="463"/>
+		</Polyline>
+		<Polyline>
+			<point x="125" y="480"/>
+			<point x="127" y="495"/>
+		</Polyline>
+		<Polyline>
+			<point x="116" y="373"/>
+			<point x="53" y="379"/>
+		</Polyline>
+		<Polyline>
+			<point x="34" y="381"/>
+			<point x="24" y="382"/>
+		</Polyline>
+		<Polyline>
+			<point x="124" y="383"/>
+			<point x="162" y="487"/>
+		</Polyline>
+		<Polyline>
+			<point x="168" y="503"/>
+			<point x="171" y="517"/>
+		</Polyline>
+		<Polyline>
+			<point x="129" y="378"/>
+			<point x="191" y="439"/>
+		</Polyline>
+		<Polyline>
+			<point x="203" y="452"/>
+			<point x="242" y="490"/>
+		</Polyline>
+		<Polyline>
+			<point x="262" y="509"/>
+			<point x="279" y="526"/>
+		</Polyline>
+		<Polyline>
+			<point x="134" y="118"/>
+			<point x="153" y="161"/>
+		</Polyline>
+		<Polyline>
+			<point x="162" y="180"/>
+			<point x="221" y="316"/>
+		</Polyline>
+		<Polyline>
+			<point x="231" y="331"/>
+			<point x="270" y="364"/>
+		</Polyline>
+		<Polyline>
+			<point x="281" y="379"/>
+			<point x="295" y="392"/>
+		</Polyline>
+		<Polyline>
+			<point x="308" y="407"/>
+			<point x="331" y="428"/>
+		</Polyline>
+		<Polyline>
+			<point x="344" y="444"/>
+			<point x="388" y="490"/>
+		</Polyline>
+		<Polyline>
+			<point x="224" y="333"/>
+			<point x="227" y="392"/>
+		</Polyline>
+		<Polyline>
+			<point x="227" y="413"/>
+			<point x="225" y="424"/>
+		</Polyline>
+		<Polyline>
+			<point x="226" y="453"/>
+			<point x="223" y="528"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="254" y="351"/>
+			<point x="344" y="401"/>
+			<point x="423" y="480"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="270" y="366"/>
+			<point x="285" y="454"/>
+			<point x="287" y="535"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="284" y="455"/>
+			<point x="268" y="480"/>
+			<point x="269" y="532"/>
+		</Polyline>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="T693" x="52" y="113" angle="0"/>
+		<Label Caption="&#9650;ULMER" x="132" y="272" angle="0"/>
+		<Label Caption="&#9650;RAMUG" x="178" y="380" angle="0"/>
+		<Label Caption="&#9650;LOPRA" x="274" y="468" angle="0"/>
+		<Label Caption="Мурманск" x="275" y="247" angle="0"/>
+		<Polyline>
+			<point x="68" y="129"/>
+			<point x="131" y="268"/>
+		</Polyline>
+		<Polyline>
+			<point x="143" y="292"/>
+			<point x="179" y="376"/>
+		</Polyline>
+		<Polyline>
+			<point x="194" y="397"/>
+			<point x="275" y="471"/>
+		</Polyline>
+		<Polyline>
+			<point x="287" y="484"/>
+			<point x="330" y="529"/>
+		</Polyline>
+		<Polyline>
+			<point x="184" y="403"/>
+			<point x="188" y="519"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="181" y="387"/>
+			<point x="266" y="403"/>
+			<point x="405" y="495"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="180" y="389"/>
+			<point x="229" y="431"/>
+			<point x="378" y="511"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="261" y="448"/>
+			<point x="276" y="531"/>
+		</Polyline>
+	</Scale>
+</root>

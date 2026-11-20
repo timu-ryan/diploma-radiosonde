@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="VITIMIRK" Caption="Витим(АМЦ  Иркутск)" AMSG="АМЦ  Иркутск" Lat="59,42" Lon="112,55" MailTo="" Start="0" Center="false" Index="30054" HMS="РС10 ЯКВТ" CGMS="RUUU" UGMS="RUCH" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Витим" x="277" y="251" angle="0"/>
+		<Label Caption="&#9650; MONUB" x="145" y="209" angle="0"/>
+		<Label Caption="&#9650; TOSGI" x="145" y="224" angle="0"/>
+		<Label Caption="&#9650; RAMIS" x="88" y="380" angle="0"/>
+		<Label Caption="&#9650;UGLIR" x="126" y="402" angle="0"/>
+		<Label Caption="&#9650; SUNUR" x="110" y="419" angle="0"/>
+		<Label Caption="&#9650; NESUM" x="457" y="329" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="35" y="144"/>
+			<point x="321" y="4"/>
+			<point x="319" y="4"/>
+			<point x="268" y="261"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="19" y="171"/>
+			<point x="263" y="263"/>
+			<point x="521" y="356"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="16" y="177"/>
+			<point x="262" y="265"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="46" y="417"/>
+			<point x="264" y="266"/>
+			<point x="436" y="55"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="86" y="464"/>
+			<point x="263" y="264"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="32" y="402"/>
+			<point x="114" y="428"/>
+			<point x="205" y="464"/>
+			<point x="332" y="530"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="132" y="497"/>
+			<point x="464" y="336"/>
+			<point x="531" y="308"/>
+		</Polyline>
+		<Polyline ps="Dot"/>
+		<Label Caption="&#9650; SONEK" x="203" y="456" angle="0"/>
+		<Polyline ps="Dot">
+			<point x="12" y="193"/>
+			<point x="261" y="280"/>
+			<point x="512" y="368"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="19" y="166"/>
+			<point x="264" y="252"/>
+			<point x="523" y="342"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="13" y="360"/>
+			<point x="193" y="473"/>
+			<point x="302" y="533"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="11" y="322"/>
+			<point x="215" y="455"/>
+			<point x="348" y="521"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="8" y="336"/>
+			<point x="95" y="387"/>
+			<point x="133" y="412"/>
+			<point x="209" y="462"/>
+		</Polyline>
+		<Label Caption="B151" x="350" y="120" angle="500"/>
+		<Label Caption="W325" x="270" y="110" angle="800"/>
+		<Label Caption="W204" x="139" y="63" angle="400"/>
+		<Label Caption="B151" x="119" y="336" angle="400"/>
+		<Label Caption="A180" x="370" y="398" angle="300"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="15" y="175"/>
+			<point x="261" y="262"/>
+			<point x="521" y="359"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="46" y="422"/>
+			<point x="265" y="265"/>
+			<point x="436" y="58"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="88" y="466"/>
+			<point x="267" y="266"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="326" y="5"/>
+			<point x="269" y="261"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="27" y="161"/>
+			<point x="269" y="243"/>
+			<point x="526" y="333"/>
+		</Polyline>
+		<Polyline ps="Dot">
+			<point x="7" y="209"/>
+			<point x="263" y="296"/>
+			<point x="506" y="385"/>
+		</Polyline>
+		<Label Caption="B151" x="71" y="375" angle="400"/>
+		<Label Caption="B724" x="129" y="454" angle="550"/>
+		<Label Caption="&#9650; " x="263" y="256" angle="0"/>
+		<Label Caption="NITIM" x="219" y="249" angle="0"/>
+	</Scale>
+</root>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="PCHRA" Caption="Печора" AMSG="Коми" Start="0" Lat="65,12" Lon="57,10" MailTo="" Center="false" Index="23418" HMS="РС10 АРПП" CGMS="RUPP" UGMS="RUAA" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="287" y="166"/>
+			<point x="277" y="214"/>
+		</Polyline>
+		<Polyline>
+			<point x="222" y="174"/>
+			<point x="245" y="219"/>
+		</Polyline>
+		<Polyline>
+			<point x="205" y="189"/>
+			<point x="236" y="225"/>
+		</Polyline>
+		<Polyline>
+			<point x="173" y="231"/>
+			<point x="219" y="246"/>
+		</Polyline>
+		<Polyline>
+			<point x="165" y="251"/>
+			<point x="215" y="256"/>
+		</Polyline>
+		<Polyline>
+			<point x="165" y="293"/>
+			<point x="216" y="276"/>
+		</Polyline>
+		<Polyline>
+			<point x="185" y="332"/>
+			<point x="226" y="298"/>
+		</Polyline>
+		<Polyline>
+			<point x="199" y="349"/>
+			<point x="236" y="306"/>
+		</Polyline>
+		<Polyline>
+			<point x="271" y="370"/>
+			<point x="271" y="318"/>
+		</Polyline>
+		<Polyline>
+			<point x="295" y="370"/>
+			<point x="280" y="311"/>
+		</Polyline>
+		<Polyline>
+			<point x="358" y="215"/>
+			<point x="313" y="241"/>
+		</Polyline>
+		<Polyline>
+			<point x="348" y="196"/>
+			<point x="306" y="230"/>
+		</Polyline>
+		<Polyline>
+			<point x="309" y="171"/>
+			<point x="288" y="216"/>
+		</Polyline>
+		<Polyline>
+			<point x="287" y="164"/>
+			<point x="277" y="215"/>
+		</Polyline>
+		<Label Caption="Н.Мар" x="197" y="126" angle="-550"/>
+		<Label Caption="У.Цильма" x="101" y="207" angle="-100"/>
+		<Label Caption="Ижма" x="124" y="286" angle="150"/>
+		<Label Caption="Сыктывкар" x="122" y="393" angle="450"/>
+		<Label Caption="Вуктыл" x="292" y="361" angle="-800"/>
+		<Label Caption="Воркута" x="349" y="195" angle="400"/>
+		<Label Caption="Амдерма" x="293" y="149" angle="700"/>
+		<Airway Caption="Н.Мар-1">
+			<point x="219" y="173"/>
+			<point x="244" y="218"/>
+		</Airway>
+		<Airway Caption="Н.Мар-2">
+			<point x="203" y="187"/>
+			<point x="233" y="224"/>
+		</Airway>
+		<Airway Caption="Н.Мар-3">
+			<point x="234" y="223"/>
+			<point x="243" y="219"/>
+		</Airway>
+		<Airway Caption="У.Цильма-1">
+			<point x="172" y="230"/>
+			<point x="217" y="245"/>
+		</Airway>
+		<Airway Caption="У.Цильма-2">
+			<point x="162" y="250"/>
+			<point x="212" y="256"/>
+		</Airway>
+		<Airway Caption="У.Цильма-3">
+			<point x="212" y="256"/>
+			<point x="217" y="245"/>
+		</Airway>
+		<Airway Caption="Ижма-1">
+			<point x="164" y="291"/>
+			<point x="215" y="275"/>
+		</Airway>
+		<Airway Caption="Ижма-2">
+			<point x="160" y="268"/>
+			<point x="214" y="268"/>
+		</Airway>
+		<Airway Caption="Ижма-3">
+			<point x="214" y="276"/>
+			<point x="215" y="268"/>
+		</Airway>
+		<Airway Caption="Сыктывкар-1">
+			<point x="185" y="330"/>
+			<point x="225" y="297"/>
+		</Airway>
+		<Airway Caption="Сыктывкар-2">
+			<point x="198" y="347"/>
+			<point x="233" y="308"/>
+		</Airway>
+		<Airway Caption="Сыктывкар-3">
+			<point x="232" y="307"/>
+			<point x="225" y="298"/>
+		</Airway>
+		<Airway Caption="Выктыл-1">
+			<point x="294" y="370"/>
+			<point x="279" y="313"/>
+		</Airway>
+		<Airway Caption="Выктыл-2">
+			<point x="268" y="367"/>
+			<point x="271" y="319"/>
+		</Airway>
+		<Airway Caption="Выктыл-3">
+			<point x="270" y="318"/>
+			<point x="278" y="314"/>
+		</Airway>
+		<Airway Caption="Воркута-1">
+			<point x="357" y="216"/>
+			<point x="312" y="239"/>
+		</Airway>
+		<Airway Caption="Воркута-2">
+			<point x="346" y="198"/>
+			<point x="304" y="230"/>
+		</Airway>
+		<Airway Caption="Воркута-3">
+			<point x="303" y="228"/>
+			<point x="310" y="239"/>
+		</Airway>
+		<Airway Caption="Амдерма-1">
+			<point x="309" y="170"/>
+			<point x="288" y="213"/>
+		</Airway>
+		<Airway Caption="Амдерма-2">
+			<point x="287" y="162"/>
+			<point x="276" y="214"/>
+		</Airway>
+		<Airway Caption="Амдерма-3">
+			<point x="276" y="213"/>
+			<point x="287" y="215"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="175" y="91"/>
+			<point x="217" y="176"/>
+		</Polyline>
+		<Polyline>
+			<point x="138" y="112"/>
+			<point x="202" y="188"/>
+		</Polyline>
+		<Polyline>
+			<point x="78" y="200"/>
+			<point x="169" y="233"/>
+		</Polyline>
+		<Polyline>
+			<point x="68" y="241"/>
+			<point x="164" y="254"/>
+		</Polyline>
+		<Polyline>
+			<point x="67" y="278"/>
+			<point x="164" y="271"/>
+		</Polyline>
+		<Polyline>
+			<point x="75" y="317"/>
+			<point x="167" y="294"/>
+		</Polyline>
+		<Polyline>
+			<point x="111" y="391"/>
+			<point x="188" y="332"/>
+		</Polyline>
+		<Polyline>
+			<point x="140" y="421"/>
+			<point x="201" y="348"/>
+		</Polyline>
+		<Polyline>
+			<point x="273" y="462"/>
+			<point x="265" y="367"/>
+		</Polyline>
+		<Polyline>
+			<point x="315" y="457"/>
+			<point x="290" y="367"/>
+		</Polyline>
+		<Polyline>
+			<point x="441" y="169"/>
+			<point x="356" y="217"/>
+		</Polyline>
+		<Polyline>
+			<point x="417" y="137"/>
+			<point x="344" y="201"/>
+		</Polyline>
+		<Polyline>
+			<point x="343" y="84"/>
+			<point x="306" y="170"/>
+		</Polyline>
+		<Polyline>
+			<point x="304" y="71"/>
+			<point x="282" y="165"/>
+		</Polyline>
+		<Label Caption="Н.Мар" x="171" y="101" angle="-550"/>
+		<Label Caption="У.Цильма" x="86" y="214" angle="-140"/>
+		<Label Caption="Ижма" x="78" y="290" angle="150"/>
+		<Label Caption="Сыктывкар" x="122" y="397" angle="440"/>
+		<Label Caption="Вуктыл" x="292" y="397" angle="-800"/>
+		<Label Caption="Воркута" x="374" y="180" angle="400"/>
+		<Label Caption="Амдерма" x="296" y="123" angle="700"/>
+	</Scale>
+</root>

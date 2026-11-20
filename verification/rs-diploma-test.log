@@ -1,0 +1,13 @@
+
+> radiosonde-drift@1.0.0 test
+> vitest run
+
+
+ RUN  v4.1.11 /tmp/rs-diploma-work
+
+
+ Test Files  17 passed | 1 skipped (18)
+      Tests  149 passed | 5 skipped (154)
+   Start at  16:36:50
+   Duration  2.25s (transform 2.42s, setup 0ms, import 4.44s, tests 7.28s, environment 3ms)
+

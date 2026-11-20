@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="AYAN" Caption="Аян(Мунук)" AMSG="Хабаровск, Николаевск-на-Амуре, Мунук" Start="0" Lat="57,407522" Lon="135,359575" MailTo="" Center="true" Index="31168" HMS="РА10 ХБРВ" CGMS="RUHB" UGMS="RUHB" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="166" y="23"/>
+			<point x="254" y="250"/>
+			<point x="431" y="52"/>
+		</Polyline>
+		<Polyline>
+			<point x="103" y="64"/>
+			<point x="200" y="179"/>
+			<point x="140" y="36"/>
+		</Polyline>
+		<Polyline>
+			<point x="82" y="84"/>
+			<point x="228" y="255"/>
+			<point x="9" y="267"/>
+		</Polyline>
+		<Polyline>
+			<point x="8" y="296"/>
+			<point x="154" y="285"/>
+			<point x="13" y="324"/>
+		</Polyline>
+		<Polyline>
+			<point x="18" y="345"/>
+			<point x="199" y="296"/>
+			<point x="72" y="442"/>
+		</Polyline>
+		<Polyline>
+			<point x="93" y="464"/>
+			<point x="244" y="291"/>
+			<point x="359" y="518"/>
+		</Polyline>
+		<Polyline>
+			<point x="386" y="510"/>
+			<point x="273" y="268"/>
+			<point x="451" y="69"/>
+		</Polyline>
+		<Polyline>
+			<point x="165" y="28"/>
+		</Polyline>
+		<Label Caption="В107" x="166" y="30" angle="-660"/>
+		<Label Caption="В194" x="99" y="68" angle="-500"/>
+		<Label Caption="А801" x="11" y="271" angle="50"/>
+		<Label Caption="А802" x="15" y="325" angle="140"/>
+		<Label Caption="А803" x="77" y="440" angle="450"/>
+		<Label Caption="А801" x="366" y="477" angle="-600"/>
+		<Label Caption="А803" x="403" y="88" angle="500"/>
+		<Airway Caption="А803-1">
+			<point x="433" y="60"/>
+			<point x="255" y="252"/>
+			<point x="197" y="301"/>
+			<point x="72" y="449"/>
+		</Airway>
+		<Airway Caption="А803-2">
+			<point x="455" y="78"/>
+			<point x="279" y="278"/>
+			<point x="245" y="295"/>
+			<point x="90" y="470"/>
+		</Airway>
+		<Airway Caption="В107-1">
+			<point x="164" y="23"/>
+			<point x="252" y="247"/>
+		</Airway>
+		<Airway Caption="В107-2">
+			<point x="252" y="246"/>
+			<point x="245" y="248"/>
+		</Airway>
+		<Airway Caption="В107-3">
+			<point x="140" y="34"/>
+			<point x="202" y="182"/>
+			<point x="247" y="247"/>
+		</Airway>
+		<Airway Caption="В194-1">
+			<point x="99" y="62"/>
+			<point x="200" y="184"/>
+			<point x="245" y="252"/>
+		</Airway>
+		<Airway Caption="В194-2">
+			<point x="245" y="251"/>
+			<point x="235" y="257"/>
+		</Airway>
+		<Airway Caption="В194-3">
+			<point x="236" y="256"/>
+			<point x="80" y="85"/>
+		</Airway>
+		<Airway Caption="А801-1">
+			<point x="2" y="273"/>
+			<point x="229" y="259"/>
+		</Airway>
+		<Airway Caption="А801-2">
+			<point x="228" y="259"/>
+			<point x="216" y="271"/>
+		</Airway>
+		<Airway Caption="А801-3">
+			<point x="215" y="268"/>
+			<point x="155" y="288"/>
+			<point x="8" y="300"/>
+		</Airway>
+		<Airway Caption="А801-4">
+			<point x="385" y="509"/>
+			<point x="280" y="282"/>
+		</Airway>
+		<Airway Caption="А801-5">
+			<point x="279" y="281"/>
+			<point x="248" y="298"/>
+		</Airway>
+		<Airway Caption="А801-6">
+			<point x="247" y="298"/>
+			<point x="360" y="521"/>
+		</Airway>
+		<Airway Caption="А802-1">
+			<point x="10" y="329"/>
+			<point x="155" y="291"/>
+			<point x="216" y="273"/>
+		</Airway>
+		<Airway Caption="А802-2">
+			<point x="225" y="274"/>
+			<point x="194" y="297"/>
+		</Airway>
+		<Airway Caption="А802-3">
+			<point x="194" y="297"/>
+			<point x="16" y="349"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="64" y="91"/>
+			<point x="190" y="235"/>
+			<point x="2" y="245"/>
+		</Polyline>
+		<Polyline>
+			<point x="105" y="54"/>
+			<point x="132" y="82"/>
+			<point x="118" y="47"/>
+		</Polyline>
+		<Polyline>
+			<point x="161" y="21"/>
+			<point x="238" y="224"/>
+			<point x="408" y="38"/>
+		</Polyline>
+		<Polyline>
+			<point x="2" y="298"/>
+			<point x="40" y="294"/>
+			<point x="4" y="309"/>
+		</Polyline>
+		<Polyline>
+			<point x="11" y="349"/>
+			<point x="130" y="319"/>
+			<point x="44" y="417"/>
+		</Polyline>
+		<Polyline>
+			<point x="86" y="463"/>
+			<point x="220" y="309"/>
+			<point x="332" y="528"/>
+		</Polyline>
+		<Polyline>
+			<point x="391" y="504"/>
+			<point x="278" y="262"/>
+		</Polyline>
+		<Polyline>
+			<point x="452" y="69"/>
+			<point x="279" y="262"/>
+		</Polyline>
+		<Label Caption="B107" x="153" y="43" angle="-650"/>
+		<Label Caption="B124" x="95" y="79" angle="-450"/>
+		<Label Caption="A801" x="15" y="276" angle="50"/>
+		<Label Caption="A802" x="20" y="315" angle="100"/>
+		<Label Caption="A803" x="65" y="416" angle="430"/>
+		<Label Caption="A803" x="392" y="77" angle="430"/>
+		<Label Caption="A801" x="348" y="472" angle="-600"/>
+	</Scale>
+</root>

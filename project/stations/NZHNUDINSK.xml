@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="NZHNUDINSK" Caption="Нижнеудинск" AMSG="АМЦ  Иркутск" Lat="54,90" Lon="99,02" MailTo="" Start="0" Center="false" Index="29698" HMS="РС10 ИРНУ" CGMS="RUIR" UGMS="RUIR" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Нижнеудинск" x="277" y="248" angle="0"/>
+		<Label Caption="&#9650; " x="78" y="234" angle="0"/>
+		<Label Caption="&#9650; " x="117" y="258" angle="0"/>
+		<Label Caption="&#9650; " x="181" y="298" angle="0"/>
+		<Label Caption="&#9650; " x="201" y="313" angle="0"/>
+		<Label Caption="&#9650; OKLUR" x="396" y="424" angle="0"/>
+		<Label Caption="BEMRI" x="170" y="340" angle="0"/>
+		<Label Caption="OTMAR" x="115" y="307" angle="0"/>
+		<Label Caption="OLATO" x="32" y="254" angle="0"/>
+		<Label Caption="ARTEP" x="57" y="198" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="43" y="126"/>
+			<point x="268" y="267"/>
+			<point x="433" y="482"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="20" y="164"/>
+			<point x="264" y="260"/>
+			<point x="486" y="421"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="264" y="261"/>
+			<point x="520" y="356"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="9" y="333"/>
+			<point x="247" y="533"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="16" y="355"/>
+			<point x="181" y="519"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="268" y="259"/>
+			<point x="478" y="103"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="66" y="438"/>
+			<point x="266" y="261"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="32" y="397"/>
+			<point x="268" y="260"/>
+		</Polyline>
+		<Label Caption="&#9650; BUMER" x="63" y="370" angle="0"/>
+		<Label Caption="W176" x="177" y="182" angle="-300"/>
+		<Label Caption="A817" x="42" y="149" angle="-200"/>
+		<Label Caption="W239" x="98" y="428" angle="400"/>
+		<Label Caption="A91" x="426" y="353" angle="-350"/>
+		<Label Caption="A817" x="464" y="316" angle="-200"/>
+		<Label Caption="R351" x="444" y="143" angle="400"/>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="&#9650; " x="96" y="347" angle="0"/>
+		<Label Caption="&#9650; " x="137" y="356" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="42" y="121"/>
+			<point x="269" y="262"/>
+			<point x="437" y="476"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="21" y="157"/>
+			<point x="266" y="258"/>
+			<point x="490" y="418"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="231"/>
+			<point x="263" y="258"/>
+			<point x="522" y="355"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="263"/>
+			<point x="261" y="259"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="33" y="397"/>
+			<point x="266" y="261"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="60" y="437"/>
+			<point x="266" y="259"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="477" y="98"/>
+			<point x="270" y="256"/>
+		</Polyline>
+		<Label Caption="W176" x="85" y="103" angle="-300"/>
+		<Label Caption="BEMRI" x="137" y="389" angle="0"/>
+		<Label Caption="Нижнеудинск" x="277" y="248" angle="0"/>
+	</Scale>
+</root>

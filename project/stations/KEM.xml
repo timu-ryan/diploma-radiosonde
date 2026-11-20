@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KEM" Caption="Кемь(Порт)" AMSG="РЦ ЕС ОрВД(Санкт-Петерсбург)" Lat="64,98333" Lon="34,78333" MailTo="" Start="0" Center="false" Index="22522" HMS="РС11 ЛГПЗ" CGMS="RUPZ" UGMS="RUSP" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Solid">
+			<point x="183" y="15"/>
+			<point x="247" y="268"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="162" y="21"/>
+			<point x="247" y="270"/>
+			<point x="331" y="526"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="218"/>
+			<point x="246" y="267"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="12" y="346"/>
+			<point x="245" y="268"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="14" y="181"/>
+			<point x="247" y="532"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="245" y="271"/>
+			<point x="280" y="399"/>
+			<point x="248" y="532"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="244" y="2"/>
+			<point x="365" y="185"/>
+			<point x="469" y="362"/>
+			<point x="489" y="422"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="531" y="230"/>
+			<point x="402" y="334"/>
+			<point x="169" y="515"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="251" y="269"/>
+			<point x="402" y="244"/>
+			<point x="533" y="275"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="5" y="217"/>
+			<point x="365" y="183"/>
+			<point x="519" y="176"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="2" y="276"/>
+			<point x="382" y="303"/>
+			<point x="436" y="307"/>
+			<point x="531" y="314"/>
+		</Polyline>
+		<Label Caption="&#9650;DIDOT" x="289" y="411" angle="0"/>
+		<Label Caption="&#9650;LIGBO" x="398" y="328" angle="0"/>
+		<Label Caption="&#9650;LEKRI" x="340" y="246" angle="0"/>
+		<Label Caption="&#9650;OBEGA" x="358" y="176" angle="0"/>
+		<Label Caption="&#9650;ORUT" x="393" y="237" angle="0"/>
+		<Label Caption="&#9650;IOTAG" x="431" y="299" angle="0"/>
+		<Label Caption="&#9650;БЕЛОМ" x="274" y="394" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="50" y="112"/>
+			<point x="36" y="405"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="108" y="55"/>
+			<point x="54" y="430"/>
+		</Polyline>
+		<Label Caption="M856" x="31" y="326" angle="850"/>
+		<Label Caption="N113" x="70" y="250" angle="830"/>
+		<Label Caption="N156" x="127" y="336" angle="-550"/>
+		<Label Caption="L250" x="168" y="191" angle="50"/>
+		<Label Caption="T747" x="319" y="98" angle="-550"/>
+		<Label Caption="КЛ122" x="115" y="302" angle="200"/>
+		<Label Caption="КЛ123" x="121" y="232" angle="-80"/>
+		<Label Caption="КЛ22" x="272" y="341" angle="-750"/>
+		<Label Caption="P65" x="207" y="52" angle="-820"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="165" y="24"/>
+			<point x="228" y="266"/>
+			<point x="311" y="528"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="146" y="29"/>
+			<point x="228" y="272"/>
+			<point x="290" y="526"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="4" y="222"/>
+			<point x="225" y="268"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="12" y="338"/>
+			<point x="227" y="270"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="5" y="299"/>
+			<point x="527" y="337"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="228" y="269"/>
+			<point x="422" y="237"/>
+			<point x="530" y="221"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="37" y="136"/>
+			<point x="458" y="100"/>
+			<point x="476" y="101"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="428" y="53"/>
+			<point x="525" y="196"/>
+		</Polyline>
+		<Label Caption="КЛ123" x="95" y="231" angle="-80"/>
+		<Label Caption="КЛ122" x="58" y="313" angle="200"/>
+		<Label Caption="КЛ22" x="260" y="365" angle="-750"/>
+		<Label Caption="L250" x="93" y="121" angle="50"/>
+		<Label Caption="&#9650;LEKRI" x="418" y="230" angle="0"/>
+		<Label Caption="&#9650;" x="452" y="94" angle="0"/>
+		<Label Caption="&#9650;REFAM" x="491" y="325" angle="0"/>
+	</Scale>
+</root>

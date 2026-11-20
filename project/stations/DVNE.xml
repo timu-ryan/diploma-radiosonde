@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="DVNE" Caption="Дивное" AMSG="Ростов-на-Дону&#xA;" Start="0" Lat="45,911847" Lon="43,342850" MailTo="" Center="false" Index="34858" HMS="РС10 РОСП" CGMS="RUST" UGMS="RURD" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="171" y="15"/>
+			<point x="399" y="123"/>
+			<point x="400" y="33"/>
+		</Polyline>
+		<Polyline>
+			<point x="147" y="25"/>
+			<point x="389" y="145"/>
+			<point x="271" y="267"/>
+			<point x="180" y="374"/>
+			<point x="128" y="42"/>
+		</Polyline>
+		<Polyline>
+			<point x="108" y="48"/>
+			<point x="161" y="391"/>
+			<point x="88" y="466"/>
+		</Polyline>
+		<Polyline>
+			<point x="103" y="482"/>
+			<point x="164" y="416"/>
+			<point x="188" y="524"/>
+		</Polyline>
+		<Polyline>
+			<point x="206" y="527"/>
+			<point x="188" y="435"/>
+			<point x="259" y="502"/>
+			<point x="234" y="534"/>
+		</Polyline>
+		<Polyline>
+			<point x="284" y="532"/>
+			<point x="283" y="511"/>
+			<point x="345" y="533"/>
+		</Polyline>
+		<Polyline>
+			<point x="422" y="532"/>
+			<point x="284" y="496"/>
+			<point x="404" y="174"/>
+			<point x="496" y="404"/>
+		</Polyline>
+		<Polyline>
+			<point x="512" y="382"/>
+			<point x="434" y="180"/>
+			<point x="534" y="270"/>
+		</Polyline>
+		<Polyline>
+			<point x="531" y="244"/>
+			<point x="447" y="163"/>
+			<point x="523" y="186"/>
+		</Polyline>
+		<Polyline>
+			<point x="506" y="143"/>
+			<point x="425" y="132"/>
+			<point x="438" y="65"/>
+		</Polyline>
+		<Polyline>
+			<point x="184" y="400"/>
+			<point x="284" y="283"/>
+			<point x="381" y="184"/>
+			<point x="266" y="478"/>
+			<point x="187" y="399"/>
+		</Polyline>
+		<Label Caption="А102" x="305" y="83" angle="-250"/>
+		<Label Caption="Г481" x="283" y="439" angle="700"/>
+		<Label Caption="Г923" x="487" y="373" angle="1100"/>
+		<Label Caption="Р122" x="477" y="197" angle="-350"/>
+		<Label Caption="А102" x="467" y="147" angle="-150"/>
+		<Label Caption="В58" x="418" y="82" angle="800"/>
+		<Label Caption="А964" x="205" y="349" angle="500"/>
+		<Label Caption="Светлоград" x="179" y="429" angle="0"/>
+		<Label Caption="Константиновск" x="150" y="448" angle="0"/>
+		<Label Caption="Элиста" x="403" y="151" angle="0"/>
+		<Airway Caption="А964-1">
+			<point x="88" y="466"/>
+			<point x="271" y="270"/>
+			<point x="389" y="147"/>
+		</Airway>
+		<Airway Caption="А964-2">
+			<point x="104" y="479"/>
+			<point x="292" y="271"/>
+			<point x="379" y="181"/>
+			<point x="389" y="147"/>
+		</Airway>
+		<Airway Caption="Г481-1">
+			<point x="237" y="532"/>
+			<point x="268" y="475"/>
+			<point x="392" y="143"/>
+			<point x="402" y="123"/>
+			<point x="401" y="33"/>
+		</Airway>
+		<Airway Caption="Г481-2">
+			<point x="278" y="531"/>
+			<point x="281" y="493"/>
+			<point x="403" y="174"/>
+			<point x="405" y="124"/>
+			<point x="420" y="45"/>
+		</Airway>
+		<Airway Caption="Г923-1">
+			<point x="495" y="399"/>
+			<point x="406" y="174"/>
+		</Airway>
+		<Airway Caption="Г923-2">
+			<point x="406" y="173"/>
+			<point x="406" y="142"/>
+		</Airway>
+		<Airway Caption="Г923-3">
+			<point x="407" y="142"/>
+			<point x="433" y="181"/>
+			<point x="512" y="383"/>
+		</Airway>
+		<Airway Caption="А102-1">
+			<point x="153" y="28"/>
+			<point x="386" y="143"/>
+		</Airway>
+		<Airway Caption="А102-2">
+			<point x="173" y="14"/>
+			<point x="396" y="120"/>
+		</Airway>
+		<Airway Caption="А102-3">
+			<point x="397" y="120"/>
+			<point x="386" y="143"/>
+		</Airway>
+		<Airway Caption="А102-4">
+			<point x="504" y="144"/>
+			<point x="408" y="128"/>
+		</Airway>
+		<Airway Caption="А102-5">
+			<point x="519" y="182"/>
+			<point x="407" y="140"/>
+		</Airway>
+		<Airway Caption="А102-6">
+			<point x="409" y="139"/>
+			<point x="408" y="129"/>
+		</Airway>
+		<Airway Caption="Р122-1">
+			<point x="530" y="264"/>
+			<point x="436" y="181"/>
+		</Airway>
+		<Airway Caption="Р122-2">
+			<point x="532" y="245"/>
+			<point x="442" y="156"/>
+		</Airway>
+		<Airway Caption="Р122-3">
+			<point x="443" y="157"/>
+			<point x="414" y="147"/>
+		</Airway>
+		<Airway Caption="Р122-4">
+			<point x="414" y="145"/>
+			<point x="435" y="179"/>
+		</Airway>
+		<Airway Caption="В58-1">
+			<point x="421" y="50"/>
+			<point x="409" y="121"/>
+		</Airway>
+		<Airway Caption="В58-2">
+			<point x="410" y="121"/>
+			<point x="426" y="126"/>
+		</Airway>
+		<Airway Caption="В58-3">
+			<point x="425" y="124"/>
+			<point x="438" y="60"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="47" y="115"/>
+			<point x="97" y="463"/>
+			<point x="272" y="268"/>
+			<point x="457" y="81"/>
+		</Polyline>
+		<Polyline>
+			<point x="137" y="501"/>
+			<point x="332" y="290"/>
+			<point x="484" y="133"/>
+			<point x="335" y="525"/>
+		</Polyline>
+		<Polyline>
+			<point x="407" y="494"/>
+			<point x="524" y="178"/>
+		</Polyline>
+		<Polyline>
+			<point x="11" y="198"/>
+			<point x="46" y="420"/>
+		</Polyline>
+		<Label Caption="А964" x="177" y="394" angle="350"/>
+		<Label Caption="Г481" x="398" y="384" angle="650"/>
+	</Scale>
+</root>

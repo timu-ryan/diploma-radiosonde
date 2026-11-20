@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="VELLUKI" Caption="Великие Луки" AMSG="РЦ ЕС ОрВД(Санкт-Петербург)" Lat="56,38333" Lon="30,6" MailTo="" Start="0" Center="false" Index="26477" HMS="РС10 ЛГПС" CGMS="RUPS" UGMS="RUSP" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Solid">
+			<point x="175" y="16"/>
+			<point x="77" y="456"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="34" y="132"/>
+			<point x="350" y="135"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="1" y="279"/>
+			<point x="332" y="345"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="77" y="452"/>
+			<point x="265" y="255"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="11" y="186"/>
+			<point x="263" y="254"/>
+			<point x="341" y="282"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="76" y="80"/>
+			<point x="11" y="278"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="15" y="178"/>
+			<point x="9" y="339"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="154" y="24"/>
+			<point x="263" y="252"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="282" y="130"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="305" y="3"/>
+			<point x="282" y="132"/>
+			<point x="266" y="253"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="285" y="2"/>
+			<point x="282" y="129"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="131" y="36"/>
+			<point x="346" y="180"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="106" y="55"/>
+			<point x="184" y="88"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="123" y="41"/>
+			<point x="191" y="120"/>
+			<point x="262" y="249"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="263" y="255"/>
+			<point x="246" y="427"/>
+		</Polyline>
+		<Label Caption="&#9650;OBBED" x="169" y="60" angle="0"/>
+		<Label Caption="&#9650;GUBIT" x="180" y="83" angle="0"/>
+		<Label Caption="&#9650;OTRAM" x="201" y="127" angle="0"/>
+		<Label Caption="&#9650;AGMUT" x="5" y="273" angle="0"/>
+		<Label Caption="&#9650;SONUN" x="199" y="313" angle="0"/>
+		<Label Caption="&#9650;BOMGI" x="327" y="339" angle="0"/>
+		<Label Caption="&#9650;AMDOR" x="333" y="271" angle="0"/>
+		<Label Caption="&#9650;LEMRO" x="342" y="174" angle="0"/>
+		<Label Caption="&#9650;RUMAP" x="347" y="125" angle="0"/>
+		<Label Caption="&#9650;KUGEK" x="276" y="122" angle="0"/>
+		<Label Caption="&#9650;LAGO" x="243" y="418" angle="0"/>
+		<Label Caption="&#9650;LUMIT" x="73" y="446" angle="0"/>
+		<Label Caption="M984" x="122" y="387" angle="450"/>
+		<Label Caption="M864" x="99" y="288" angle="-100"/>
+		<Label Caption="L198" x="78" y="194" angle="-130"/>
+		<Label Caption="M869" x="86" y="123" angle="0"/>
+		<Label Caption="N171" x="132" y="174" angle="810"/>
+		<Label Caption="M856" x="266" y="197" angle="850"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="162" y="22"/>
+			<point x="266" y="244"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="146" y="32"/>
+			<point x="263" y="243"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="297" y="2"/>
+			<point x="265" y="239"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="18" y="177"/>
+			<point x="264" y="242"/>
+			<point x="408" y="295"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="13" y="347"/>
+			<point x="392" y="420"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="72" y="449"/>
+			<point x="263" y="243"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="266" y="242"/>
+			<point x="230" y="530"/>
+		</Polyline>
+		<Label Caption="&#9650;SONUN" x="141" y="364" angle="0"/>
+		<Label Caption="&#9650;SUDER" x="243" y="384" angle="0"/>
+		<Label Caption="&#9650;BOMGI" x="389" y="410" angle="0"/>
+		<Label Caption="&#9650;AMDOR" x="402" y="287" angle="0"/>
+		<Label Caption="&#9650;RUMAP" x="419" y="87" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="298" y="2"/>
+			<point x="425" y="92"/>
+		</Polyline>
+		<Label Caption="M984" x="93" y="413" angle="450"/>
+		<Label Caption="M864" x="58" y="345" angle="-100"/>
+		<Label Caption="L198" x="76" y="180" angle="-110"/>
+		<Label Caption="M856" x="267" y="142" angle="800"/>
+		<Label Caption="N609" x="357" y="32" angle="-370"/>
+	</Scale>
+</root>

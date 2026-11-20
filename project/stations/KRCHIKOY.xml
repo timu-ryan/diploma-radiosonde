@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KRCHIKOY" Caption="Красный Чикой" AMSG="АМЦ  Иркутск" Lat="50,37" Lon="108,77" MailTo="" Start="0" Center="false" Index="30935" HMS="РС10 ЗБКЧ" CGMS="RUCH" UGMS="RUCH" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Красный Чикой" x="278" y="251" angle="0"/>
+	</Scale>
+	<Scale Value="5">
+		<Label Caption="Красный Чикой" x="278" y="251" angle="0"/>
+	</Scale>
+</root>

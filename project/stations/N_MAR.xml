@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="N_MAR" Caption="Нарьян-Мар" AMSG="Архангельск" Start="0" Lat="67,63" Lon="53,02" MailTo="" Center="true" Index="23205" HMS="РС12 АРХН" CGMS="RUNM" UGMS="RUAA" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="221" y="211"/>
+			<point x="271" y="264"/>
+			<point x="314" y="215"/>
+		</Polyline>
+		<Polyline>
+			<point x="213" y="219"/>
+			<point x="261" y="273"/>
+			<point x="170" y="294"/>
+		</Polyline>
+		<Polyline>
+			<point x="192" y="331"/>
+			<point x="249" y="295"/>
+			<point x="218" y="336"/>
+		</Polyline>
+		<Polyline>
+			<point x="296" y="332"/>
+			<point x="285" y="304"/>
+			<point x="324" y="330"/>
+		</Polyline>
+		<Polyline>
+			<point x="333" y="318"/>
+			<point x="285" y="279"/>
+			<point x="363" y="259"/>
+		</Polyline>
+		<Polyline>
+			<point x="322" y="224"/>
+			<point x="298" y="256"/>
+			<point x="351" y="230"/>
+		</Polyline>
+		<Polyline>
+			<point x="360" y="240"/>
+			<point x="337" y="251"/>
+			<point x="365" y="250"/>
+		</Polyline>
+		<Airway Caption="М168-1">
+			<point x="220" y="210"/>
+			<point x="284" y="276"/>
+			<point x="336" y="321"/>
+		</Airway>
+		<Airway Caption="М168-2">
+			<point x="210" y="216"/>
+			<point x="259" y="271"/>
+			<point x="290" y="305"/>
+			<point x="327" y="333"/>
+		</Airway>
+		<Airway Caption="М131-1">
+			<point x="313" y="217"/>
+			<point x="274" y="260"/>
+		</Airway>
+		<Airway Caption="М131-2">
+			<point x="322" y="224"/>
+			<point x="299" y="253"/>
+			<point x="282" y="267"/>
+		</Airway>
+		<Airway Caption="М131-3">
+			<point x="283" y="265"/>
+			<point x="274" y="260"/>
+		</Airway>
+		<Airway Caption="М131-4">
+			<point x="266" y="289"/>
+			<point x="237" y="336"/>
+		</Airway>
+		<Airway Caption="М131-5">
+			<point x="264" y="281"/>
+			<point x="248" y="295"/>
+			<point x="220" y="333"/>
+		</Airway>
+		<Airway Caption="М131-6">
+			<point x="267" y="288"/>
+			<point x="264" y="280"/>
+		</Airway>
+		<Airway Caption="Л168-1">
+			<point x="349" y="230"/>
+			<point x="300" y="255"/>
+			<point x="285" y="266"/>
+		</Airway>
+		<Airway Caption="Л168-2">
+			<point x="284" y="266"/>
+			<point x="288" y="270"/>
+		</Airway>
+		<Airway Caption="Л168-3">
+			<point x="286" y="269"/>
+			<point x="338" y="250"/>
+			<point x="360" y="240"/>
+		</Airway>
+		<Airway Caption="Л168-4">
+			<point x="192" y="330"/>
+			<point x="242" y="298"/>
+			<point x="252" y="287"/>
+		</Airway>
+		<Airway Caption="Л168-5">
+			<point x="251" y="286"/>
+			<point x="179" y="325"/>
+		</Airway>
+		<Airway Caption="Н151-1">
+			<point x="361" y="249"/>
+			<point x="339" y="253"/>
+		</Airway>
+		<Airway Caption="Н151-2">
+			<point x="339" y="252"/>
+			<point x="286" y="271"/>
+		</Airway>
+		<Airway Caption="Н151-3">
+			<point x="363" y="260"/>
+			<point x="289" y="279"/>
+		</Airway>
+		<Airway Caption="Н151-4">
+			<point x="287" y="278"/>
+			<point x="289" y="270"/>
+		</Airway>
+		<Airway Caption="Н151-5">
+			<point x="177" y="323"/>
+			<point x="252" y="282"/>
+		</Airway>
+		<Airway Caption="Н151-5">
+			<point x="249" y="281"/>
+			<point x="174" y="309"/>
+		</Airway>
+		<Airway Caption="Т567-1">
+			<point x="168" y="293"/>
+			<point x="258" y="274"/>
+		</Airway>
+		<Airway Caption="Т567-2">
+			<point x="259" y="274"/>
+			<point x="252" y="278"/>
+		</Airway>
+		<Airway Caption="Т567-3">
+			<point x="253" y="278"/>
+			<point x="175" y="305"/>
+		</Airway>
+		<Airway Caption="Т753-1">
+			<point x="255" y="335"/>
+			<point x="270" y="294"/>
+		</Airway>
+		<Airway Caption="Т753-2">
+			<point x="243" y="335"/>
+			<point x="268" y="290"/>
+		</Airway>
+		<Airway Caption="Т753-3">
+			<point x="270" y="295"/>
+			<point x="269" y="289"/>
+		</Airway>
+		<Airway Caption="Т793-1">
+			<point x="277" y="338"/>
+			<point x="273" y="296"/>
+		</Airway>
+		<Airway Caption="Т793-2">
+			<point x="272" y="296"/>
+			<point x="259" y="335"/>
+		</Airway>
+		<Airway Caption="Т765-1">
+			<point x="296" y="331"/>
+			<point x="285" y="304"/>
+			<point x="275" y="293"/>
+		</Airway>
+		<Airway Caption="Т765-2">
+			<point x="274" y="291"/>
+			<point x="280" y="337"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="168" y="149"/>
+			<point x="266" y="260"/>
+			<point x="344" y="161"/>
+		</Polyline>
+		<Polyline>
+			<point x="367" y="169"/>
+			<point x="301" y="245"/>
+			<point x="430" y="182"/>
+		</Polyline>
+		<Polyline>
+			<point x="149" y="161"/>
+			<point x="239" y="271"/>
+			<point x="65" y="318"/>
+		</Polyline>
+		<Polyline>
+			<point x="73" y="338"/>
+			<point x="113" y="325"/>
+			<point x="55" y="359"/>
+		</Polyline>
+		<Polyline>
+			<point x="107" y="386"/>
+			<point x="224" y="314"/>
+			<point x="175" y="389"/>
+		</Polyline>
+		<Polyline>
+			<point x="313" y="387"/>
+			<point x="296" y="327"/>
+			<point x="369" y="396"/>
+		</Polyline>
+		<Polyline>
+			<point x="389" y="379"/>
+			<point x="292" y="281"/>
+			<point x="440" y="245"/>
+		</Polyline>
+		<Polyline>
+			<point x="440" y="207"/>
+			<point x="398" y="229"/>
+			<point x="447" y="221"/>
+		</Polyline>
+		<Label Caption="М168" x="196" y="188" angle="-450"/>
+		<Label Caption="М131" x="295" y="227" angle="500"/>
+		<Label Caption="Л168" x="341" y="228" angle="300"/>
+		<Label Caption="Н151" x="335" y="252" angle="150"/>
+		<Label Caption="М168" x="323" y="317" angle="-450"/>
+		<Label Caption="Т765" x="292" y="340" angle="-650"/>
+		<Label Caption="Т793" x="274" y="348" angle="-890"/>
+		<Label Caption="Т753" x="223" y="369" angle="800"/>
+		<Label Caption="М131" x="197" y="361" angle="700"/>
+		<Label Caption="Л168" x="172" y="328" angle="350"/>
+		<Label Caption="Н151" x="158" y="316" angle="200"/>
+		<Label Caption="Т567" x="153" y="297" angle="150"/>
+		<Label Caption="&#9650;БИБНА" x="173" y="172" angle="0"/>
+		<Label Caption="&#9650;ОРТИБ" x="353" y="159" angle="0"/>
+		<Label Caption="&#9650;НЕРНА" x="401" y="235" angle="0"/>
+		<Label Caption="&#9650;ТИСНА" x="196" y="373" angle="0"/>
+		<Label Caption="&#9650;" x="158" y="335" angle="0"/>
+	</Scale>
+</root>

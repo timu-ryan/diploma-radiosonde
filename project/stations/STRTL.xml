@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="STRTL" Caption="Старатель" AMSG="Екатеринбург" Start="0" Lat="55,441606" Lon="59,616" MailTo="" Center="false" Index="28440" HMS="РА14 СВРД" CGMS="RUEK" UGMS="RUEK" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="80" y="76"/>
+		</Polyline>
+		<Polyline>
+			<point x="2" y="300"/>
+			<point x="87" y="322"/>
+			<point x="439" y="269"/>
+			<point x="534" y="288"/>
+		</Polyline>
+		<Polyline>
+			<point x="8" y="328"/>
+			<point x="360" y="433"/>
+			<point x="98" y="478"/>
+		</Polyline>
+		<Polyline>
+			<point x="125" y="498"/>
+			<point x="422" y="449"/>
+			<point x="461" y="452"/>
+		</Polyline>
+		<Polyline>
+			<point x="495" y="409"/>
+			<point x="415" y="422"/>
+			<point x="151" y="342"/>
+			<point x="439" y="295"/>
+			<point x="530" y="315"/>
+		</Polyline>
+		<Label Caption="Г358" x="23" y="309" angle="-140"/>
+		<Label Caption="В182" x="196" y="309" angle="100"/>
+		<Label Caption="Р211" x="139" y="477" angle="100"/>
+		<Airway Caption="Г358-1">
+			<point x="2" y="306"/>
+			<point x="87" y="326"/>
+			<point x="149" y="347"/>
+			<point x="415" y="425"/>
+		</Airway>
+		<Airway Caption="Г358-2">
+			<point x="8" y="335"/>
+			<point x="358" y="437"/>
+		</Airway>
+		<Airway Caption="Г358-3">
+			<point x="356" y="438"/>
+			<point x="416" y="427"/>
+		</Airway>
+		<Airway Caption="В182-1">
+			<point x="94" y="324"/>
+			<point x="435" y="272"/>
+		</Airway>
+		<Airway Caption="В182-2">
+			<point x="533" y="292"/>
+			<point x="442" y="272"/>
+		</Airway>
+		<Airway Caption="В182-3">
+			<point x="529" y="318"/>
+			<point x="436" y="298"/>
+		</Airway>
+		<Airway Caption="В182-4">
+			<point x="153" y="345"/>
+			<point x="438" y="298"/>
+		</Airway>
+		<Airway Caption="В182-6">
+			<point x="93" y="323"/>
+			<point x="152" y="346"/>
+		</Airway>
+		<Airway Caption="Р211-1">
+			<point x="128" y="500"/>
+			<point x="423" y="451"/>
+			<point x="457" y="455"/>
+		</Airway>
+		<Airway Caption="Р211-2">
+			<point x="102" y="482"/>
+			<point x="360" y="439"/>
+			<point x="419" y="428"/>
+			<point x="493" y="412"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="24" y="350"/>
+			<point x="533" y="273"/>
+		</Polyline>
+		<Polyline>
+			<point x="55" y="400"/>
+			<point x="530" y="320"/>
+		</Polyline>
+		<Polyline>
+			<point x="89" y="443"/>
+			<point x="62" y="436"/>
+		</Polyline>
+		<Polyline>
+			<point x="89" y="443"/>
+			<point x="338" y="518"/>
+		</Polyline>
+		<Label Caption="В182" x="131" y="345" angle="100"/>
+	</Scale>
+</root>

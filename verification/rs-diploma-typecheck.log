@@ -1,0 +1,8 @@
+
+> radiosonde-drift@1.0.0 typecheck
+> npm run build -w @rs/shared && tsc -p packages/server/tsconfig.json --noEmit && tsc -p packages/web/tsconfig.json --noEmit
+
+
+> @rs/shared@1.0.0 build
+> tsc -p tsconfig.json
+

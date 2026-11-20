@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="SHOYNA" Caption="Шойна" AMSG="Архангельск" Start="0" Lat="67,88" Lon="44,17" MailTo="" Center="true" Index="22271" HMS="РС14 АРХН" CGMS="RUAA" UGMS="RUAA" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="172" y="308"/>
+			<point x="339" y="208"/>
+		</Polyline>
+		<Polyline>
+			<point x="180" y="338"/>
+			<point x="353" y="234"/>
+		</Polyline>
+		<Label Caption="М130" x="313" y="231" angle="300"/>
+		<Airway Caption="М130-1">
+			<point x="172" y="308"/>
+			<point x="339" y="209"/>
+		</Airway>
+		<Airway Caption="М130-2">
+			<point x="181" y="335"/>
+			<point x="352" y="235"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="84" y="338"/>
+			<point x="415" y="142"/>
+		</Polyline>
+		<Polyline>
+			<point x="89" y="399"/>
+			<point x="440" y="191"/>
+		</Polyline>
+		<Label Caption="М130" x="354" y="194" angle="300"/>
+		<Label Caption="М130" x="170" y="302" angle="300"/>
+		<Label Caption="&#9650; DOMED" x="125" y="337" angle="0"/>
+		<Label Caption="Шойна" x="276" y="254" angle="0"/>
+	</Scale>
+</root>

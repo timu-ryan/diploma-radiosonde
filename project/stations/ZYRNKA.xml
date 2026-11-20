@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="ZYRNKA" Caption="Зырянка" AMSG="Зырянка" Start="0" Lat="65,736267" Lon="150,890458" MailTo="" Center="true" Index="25403" HMS="РА25 ЯКУТ" CGMS="RUYK" UGMS="RUYK" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="146" y="30"/>
+			<point x="208" y="227"/>
+			<point x="19" y="168"/>
+		</Polyline>
+		<Polyline>
+			<point x="6" y="219"/>
+			<point x="148" y="267"/>
+			<point x="4" y="309"/>
+		</Polyline>
+		<Polyline>
+			<point x="18" y="364"/>
+			<point x="78" y="347"/>
+			<point x="26" y="384"/>
+		</Polyline>
+		<Polyline>
+			<point x="54" y="428"/>
+			<point x="181" y="347"/>
+			<point x="97" y="474"/>
+		</Polyline>
+		<Polyline>
+			<point x="119" y="491"/>
+			<point x="138" y="461"/>
+			<point x="126" y="497"/>
+		</Polyline>
+		<Polyline>
+			<point x="174" y="518"/>
+			<point x="243" y="357"/>
+			<point x="287" y="532"/>
+		</Polyline>
+		<Polyline>
+			<point x="342" y="524"/>
+			<point x="280" y="280"/>
+			<point x="486" y="109"/>
+		</Polyline>
+		<Polyline>
+			<point x="447" y="69"/>
+			<point x="342" y="158"/>
+			<point x="417" y="45"/>
+		</Polyline>
+		<Polyline>
+			<point x="394" y="31"/>
+			<point x="264" y="223"/>
+			<point x="195" y="10"/>
+		</Polyline>
+		<Label Caption="КТА UESU" x="262" y="249" angle="0"/>
+		<Label Caption="Зырянка" x="277" y="277" angle="0"/>
+		<Label Caption="W96" x="191" y="52" angle="-700"/>
+		<Label Caption="W96" x="306" y="460" angle="-700"/>
+		<Label Caption="W203" x="49" y="191" angle="-200"/>
+		<Label Caption="W290" x="30" y="319" angle="150"/>
+		<Label Caption="W122" x="48" y="388" angle="300"/>
+		<Label Caption="M137" x="109" y="464" angle="600"/>
+		<Label Caption="W124" x="153" y="482" angle="700"/>
+		<Label Caption="B722/M137" x="327" y="139" angle="600"/>
+		<Label Caption="W122" x="428" y="122" angle="400"/>
+		<Label Caption="&#9650;MORUD" x="360" y="166" angle="0"/>
+		<Label Caption="&#9650;SODMI" x="130" y="226" angle="0"/>
+		<Label Caption="&#9650;GONKI" x="130" y="296" angle="0"/>
+		<Label Caption="&#9650;DIMAG" x="143" y="331" angle="0"/>
+		<Label Caption="&#9650;SOPOT" x="287" y="400" angle="0"/>
+		<Airway Caption="W96-1">
+			<point x="194" y="11"/>
+			<point x="263" y="221"/>
+			<point x="280" y="281"/>
+			<point x="343" y="524"/>
+		</Airway>
+		<Airway Caption="W96-2">
+			<point x="146" y="32"/>
+			<point x="206" y="223"/>
+			<point x="244" y="361"/>
+			<point x="288" y="532"/>
+		</Airway>
+		<Airway Caption="W203-1">
+			<point x="20" y="166"/>
+			<point x="204" y="226"/>
+		</Airway>
+		<Airway Caption="W203-2">
+			<point x="3" y="219"/>
+			<point x="146" y="265"/>
+			<point x="212" y="267"/>
+		</Airway>
+		<Airway Caption="W203-3">
+			<point x="212" y="266"/>
+			<point x="203" y="225"/>
+		</Airway>
+		<Airway Caption="W290-1">
+			<point x="4" y="310"/>
+			<point x="144" y="269"/>
+			<point x="212" y="268"/>
+		</Airway>
+		<Airway Caption="W290-2">
+			<point x="19" y="362"/>
+			<point x="79" y="348"/>
+			<point x="218" y="287"/>
+		</Airway>
+		<Airway Caption="W290-3">
+			<point x="217" y="286"/>
+			<point x="212" y="266"/>
+		</Airway>
+		<Airway Caption="W122-1">
+			<point x="26" y="383"/>
+			<point x="80" y="350"/>
+			<point x="217" y="290"/>
+		</Airway>
+		<Airway Caption="W122-2">
+			<point x="53" y="427"/>
+			<point x="181" y="347"/>
+			<point x="223" y="300"/>
+		</Airway>
+		<Airway Caption="W122-3">
+			<point x="222" y="300"/>
+			<point x="215" y="290"/>
+		</Airway>
+		<Airway Caption="W122-4">
+			<point x="447" y="69"/>
+			<point x="343" y="157"/>
+			<point x="274" y="245"/>
+		</Airway>
+		<Airway Caption="W122-5">
+			<point x="482" y="113"/>
+			<point x="282" y="279"/>
+		</Airway>
+		<Airway Caption="W122-6">
+			<point x="281" y="275"/>
+			<point x="274" y="244"/>
+		</Airway>
+		<Airway Caption="M137-1">
+			<point x="95" y="472"/>
+			<point x="179" y="350"/>
+			<point x="224" y="303"/>
+		</Airway>
+		<Airway Caption="M137-2">
+			<point x="119" y="488"/>
+			<point x="137" y="462"/>
+			<point x="225" y="313"/>
+		</Airway>
+		<Airway Caption="M137-3">
+			<point x="224" y="314"/>
+			<point x="223" y="304"/>
+		</Airway>
+		<Airway Caption="W124-1">
+			<point x="173" y="517"/>
+			<point x="241" y="362"/>
+		</Airway>
+		<Airway Caption="W124-2">
+			<point x="126" y="494"/>
+			<point x="137" y="464"/>
+			<point x="227" y="316"/>
+		</Airway>
+		<Airway Caption="W124-3">
+			<point x="227" y="316"/>
+			<point x="241" y="362"/>
+		</Airway>
+		<Airway Caption="B722/M137-1">
+			<point x="394" y="30"/>
+			<point x="265" y="219"/>
+		</Airway>
+		<Airway Caption="B722/M137-2">
+			<point x="417" y="46"/>
+			<point x="346" y="148"/>
+			<point x="273" y="243"/>
+		</Airway>
+		<Airway Caption="B722/M137-3">
+			<point x="274" y="241"/>
+			<point x="265" y="218"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="101" y="59"/>
+			<point x="143" y="188"/>
+			<point x="23" y="153"/>
+		</Polyline>
+		<Polyline>
+			<point x="1" y="259"/>
+			<point x="21" y="266"/>
+			<point x="2" y="271"/>
+		</Polyline>
+		<Polyline>
+			<point x="62" y="436"/>
+			<point x="90" y="422"/>
+			<point x="69" y="446"/>
+		</Polyline>
+		<Polyline>
+			<point x="178" y="520"/>
+			<point x="212" y="442"/>
+			<point x="237" y="532"/>
+		</Polyline>
+		<Polyline>
+			<point x="349" y="520"/>
+			<point x="288" y="290"/>
+			<point x="496" y="126"/>
+		</Polyline>
+		<Polyline>
+			<point x="369" y="19"/>
+			<point x="256" y="178"/>
+			<point x="197" y="10"/>
+		</Polyline>
+		<Label Caption="КТА UESU" x="250" y="228" angle="0"/>
+		<Label Caption="Зырянка" x="278" y="278" angle="0"/>
+		<Label Caption="W96" x="165" y="43" angle="-700"/>
+		<Label Caption="W96" x="294" y="457" angle="-700"/>
+		<Label Caption="W203" x="38" y="185" angle="-200"/>
+		<Label Caption="W122" x="414" y="137" angle="300"/>
+		<Label Caption="W122" x="54" y="408" angle="300"/>
+		<Label Caption="W290" x="10" y="290" angle="100"/>
+		<Label Caption="B722/M137" x="336" y="95" angle="550"/>
+	</Scale>
+</root>

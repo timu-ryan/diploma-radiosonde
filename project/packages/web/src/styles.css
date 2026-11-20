@@ -1,0 +1,107 @@
+@import 'tailwindcss';
+
+/* Тема переключается атрибутом data-theme на <html>, а не системной настройкой. */
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * Tailwind 4 оставляет кнопкам обычный курсор — возвращаем «руку» всему, что нажимается.
+ * В слое base, чтобы утилиты вроде cursor-grab по-прежнему перебивали правило.
+ */
+@layer base {
+  button:not(:disabled),
+  [role='button']:not(:disabled),
+  input[type='checkbox']:not(:disabled),
+  input[type='radio']:not(:disabled),
+  select:not(:disabled),
+  summary {
+    cursor: pointer;
+  }
+}
+
+/*
+ * Флажок рисуем сами: при accent-color браузер подбирает цвет галки по контрасту
+ * и на голубом делает её чёрной. Размер задаётся утилитами (h-4 w-4).
+ */
+@layer components {
+  .checkbox {
+    appearance: none;
+    flex-shrink: 0;
+    border: 1px solid var(--color-slate-300);
+    border-radius: 0.25rem;
+    background: var(--color-white) center / 100% 100% no-repeat;
+    transition:
+      background-color 0.15s,
+      border-color 0.15s;
+  }
+
+  [data-theme='dark'] .checkbox:not(:checked) {
+    border-color: var(--color-slate-600);
+    background-color: var(--color-slate-900);
+  }
+
+  .checkbox:hover:not(:disabled) {
+    border-color: var(--color-sky-500);
+  }
+
+  .checkbox:checked {
+    border-color: var(--color-sky-500);
+    background-color: var(--color-sky-500);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='white' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3.5 8.5l3 3 6-7'/%3E%3C/svg%3E");
+  }
+
+  .checkbox:checked:hover:not(:disabled) {
+    border-color: var(--color-sky-600);
+    background-color: var(--color-sky-600);
+  }
+
+  .checkbox:focus-visible {
+    outline: 2px solid var(--color-sky-500);
+    outline-offset: 2px;
+  }
+}
+
+/* Плавное появление карточек с результатом. */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.animate-rise {
+  animation: rise 0.24s ease-out both;
+}
+
+/* Схема не должна выделяться как текст при перетаскивании. */
+.chart-surface {
+  touch-action: none;
+  user-select: none;
+}

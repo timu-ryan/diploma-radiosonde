@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="VITIM" Caption="Витим" AMSG="Ленск" Start="0" Lat="59,429471" Lon="112,557809" MailTo="" Center="false" Index="30054" HMS="РА20 ЯКУТ" CGMS="RUYK" UGMS="RUYK" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="77" y="80"/>
+		</Polyline>
+		<Polyline>
+			<point x="29" y="150"/>
+			<point x="34" y="159"/>
+			<point x="287" y="48"/>
+			<point x="256" y="191"/>
+			<point x="280" y="196"/>
+			<point x="322" y="32"/>
+			<point x="356" y="16"/>
+		</Polyline>
+		<Polyline>
+			<point x="418" y="45"/>
+			<point x="282" y="196"/>
+			<point x="323" y="232"/>
+			<point x="459" y="81"/>
+		</Polyline>
+		<Polyline>
+			<point x="76" y="80"/>
+			<point x="254" y="1"/>
+		</Polyline>
+		<Label Caption="W204" x="165" y="64" angle="200"/>
+		<Label Caption="W325" x="277" y="117" angle="750"/>
+		<Label Caption="B151" x="348" y="150" angle="450"/>
+		<Label Caption="&#9650;KUGES" x="268" y="185" angle="0"/>
+		<Label Caption="&#9650;RULOG" x="95" y="92" angle="0"/>
+		<Label Caption="&#9650;KUPUR" x="295" y="203" angle="0"/>
+		<Label Caption="Витим" x="280" y="278" angle="0"/>
+		<Airway Caption="W204-1">
+			<point x="20" y="166"/>
+			<point x="31" y="158"/>
+			<point x="287" y="48"/>
+			<point x="356" y="14"/>
+		</Airway>
+		<Airway Caption="W204-2">
+			<point x="75" y="82"/>
+			<point x="258" y="0"/>
+		</Airway>
+		<Airway Caption="W325-1">
+			<point x="287" y="51"/>
+			<point x="256" y="188"/>
+		</Airway>
+		<Airway Caption="W325-2">
+			<point x="322" y="34"/>
+			<point x="281" y="195"/>
+		</Airway>
+		<Airway Caption="W325-3">
+			<point x="257" y="189"/>
+			<point x="281" y="197"/>
+		</Airway>
+		<Airway Caption="W325-4">
+			<point x="286" y="51"/>
+			<point x="321" y="34"/>
+		</Airway>
+		<Airway Caption="B151-1">
+			<point x="281" y="194"/>
+			<point x="417" y="44"/>
+		</Airway>
+		<Airway Caption="B151-2">
+			<point x="281" y="195"/>
+			<point x="325" y="233"/>
+		</Airway>
+		<Airway Caption="B151-3">
+			<point x="324" y="234"/>
+			<point x="459" y="82"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="246" y="112"/>
+		</Polyline>
+		<Polyline>
+			<point x="245" y="116"/>
+			<point x="290" y="128"/>
+			<point x="323" y="4"/>
+		</Polyline>
+		<Polyline>
+			<point x="386" y="26"/>
+			<point x="295" y="123"/>
+			<point x="376" y="196"/>
+			<point x="468" y="95"/>
+		</Polyline>
+		<Polyline>
+			<point x="244" y="114"/>
+			<point x="272" y="3"/>
+		</Polyline>
+		<Label Caption="&#9650;KUGES" x="270" y="109" angle="0"/>
+		<Label Caption="&#9650;KUPUR" x="331" y="142" angle="0"/>
+		<Label Caption="Витим" x="283" y="280" angle="0"/>
+		<Label Caption="B151" x="363" y="96" angle="450"/>
+		<Label Caption="W325" x="273" y="53" angle="750"/>
+	</Scale>
+</root>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="PETRZVDSK" Caption="Петрозаводск" AMSG="РЦ ЕС ОрВД(Санкт-Петерсбург)" Lat="61,81666" Lon="34,26666" MailTo="" Start="0" Center="false" Index="22820" HMS="РС11 ЛГПЗ" CGMS="RUPZ" UGMS="RUSP" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Solid">
+			<point x="40" y="128"/>
+			<point x="360" y="15"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="50" y="111"/>
+			<point x="34" y="397"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="24" y="155"/>
+			<point x="253" y="246"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="253" y="246"/>
+			<point x="476" y="431"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="45" y="413"/>
+			<point x="92" y="367"/>
+			<point x="253" y="246"/>
+			<point x="384" y="92"/>
+			<point x="422" y="48"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="58" y="435"/>
+			<point x="341" y="527"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="160" y="514"/>
+			<point x="376" y="510"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="336" y="430"/>
+			<point x="445" y="468"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="44" y="245"/>
+			<point x="1" y="248"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="5" y="326"/>
+			<point x="67" y="337"/>
+			<point x="180" y="304"/>
+			<point x="256" y="312"/>
+			<point x="282" y="258"/>
+			<point x="310" y="249"/>
+			<point x="329" y="160"/>
+			<point x="485" y="161"/>
+			<point x="534" y="238"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="313" y="149"/>
+			<point x="302" y="2"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="206" y="530"/>
+			<point x="216" y="517"/>
+			<point x="273" y="326"/>
+			<point x="285" y="257"/>
+			<point x="314" y="149"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="140" y="82"/>
+			<point x="114" y="46"/>
+		</Polyline>
+		<Label Caption="&#9650;OSNEN" x="135" y="78" angle="0"/>
+		<Label Caption="&#9650;KUSAG" x="38" y="241" angle="0"/>
+		<Label Caption="&#9650;BOBMU" x="86" y="358" angle="0"/>
+		<Label Caption="&#9650;INDIL" x="245" y="237" angle="0"/>
+		<Label Caption="&#9650;PEMEM" x="329" y="422" angle="0"/>
+		<Label Caption="&#9650;OKDON" x="290" y="504" angle="0"/>
+		<Label Caption="&#9650;SOPID" x="377" y="87" angle="0"/>
+		<Label Caption="L252" x="69" y="108" angle="150"/>
+		<Label Caption="N198" x="104" y="174" angle="-150"/>
+		<Label Caption="N87" x="132" y="448" angle="-150"/>
+		<Label Caption="P157" x="186" y="506" angle="0"/>
+		<Label Caption="T821" x="126" y="328" angle="400"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="34" y="140"/>
+			<point x="237" y="224"/>
+			<point x="483" y="427"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="25" y="383"/>
+			<point x="237" y="223"/>
+			<point x="397" y="32"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="14" y="357"/>
+			<point x="87" y="337"/>
+			<point x="242" y="352"/>
+			<point x="305" y="243"/>
+			<point x="353" y="227"/>
+			<point x="390" y="51"/>
+			<point x="426" y="51"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="357" y="14"/>
+			<point x="357" y="26"/>
+			<point x="305" y="239"/>
+			<point x="232" y="531"/>
+		</Polyline>
+		<Label Caption="&#9650;INDIL" x="230" y="215" angle="0"/>
+		<Label Caption="N198" x="119" y="164" angle="-150"/>
+		<Label Caption="T821" x="99" y="315" angle="400"/>
+	</Scale>
+	<Scale Value="5"/>
+</root>

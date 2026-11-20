@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="STRGNO" Caption="Стригино" AMSG="Нижний Новгород" Start="0" Lat="56,219653" Lon="43,790400" MailTo="" Center="false" Index="27459" HMS="РС10 ГОРК" CGMS="RUNN" UGMS="RUNN" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline>
+			<point x="398" y="117"/>
+			<point x="226" y="269"/>
+			<point x="123" y="301"/>
+			<point x="129" y="328"/>
+			<point x="189" y="304"/>
+			<point x="107" y="412"/>
+			<point x="124" y="424"/>
+			<point x="217" y="313"/>
+			<point x="213" y="476"/>
+			<point x="235" y="477"/>
+			<point x="244" y="315"/>
+			<point x="408" y="505"/>
+			<point x="427" y="489"/>
+			<point x="269" y="309"/>
+			<point x="438" y="369"/>
+			<point x="446" y="350"/>
+			<point x="250" y="277"/>
+			<point x="413" y="134"/>
+			<point x="398" y="117"/>
+		</Polyline>
+		<Label Caption="№6" x="292" y="213" angle="0"/>
+		<Label Caption="№5" x="149" y="299" angle="0"/>
+		<Label Caption="№4" x="137" y="377" angle="0"/>
+		<Label Caption="№3" x="218" y="403" angle="0"/>
+		<Label Caption="№2" x="299" y="371" angle="0"/>
+		<Label Caption="№1" x="326" y="309" angle="0"/>
+		<Label Caption="АЭ Н.Новгород" x="290" y="248" angle="0"/>
+		<Label Caption="КТА" x="213" y="277" angle="0"/>
+		<Label Caption="Усток" x="77" y="309" angle="0"/>
+		<Label Caption="Сосновское" x="78" y="429" angle="0"/>
+		<Label Caption="Чернуха" x="196" y="487" angle="0"/>
+		<Label Caption="Бутурлино" x="420" y="472" angle="0"/>
+		<Label Caption="Лысково" x="448" y="355" angle="0"/>
+		<Label Caption="Гилам" x="408" y="107" angle="0"/>
+		<Airway Caption="№6 Гилам-1">
+			<point x="228" y="267"/>
+			<point x="397" y="120"/>
+		</Airway>
+		<Airway Caption="№6 Гилам-2">
+			<point x="251" y="280"/>
+			<point x="414" y="137"/>
+		</Airway>
+		<Airway Caption="№6 Гилам-3">
+			<point x="222" y="271"/>
+			<point x="250" y="279"/>
+		</Airway>
+		<Airway Caption="№5 Усток-1">
+			<point x="123" y="304"/>
+			<point x="221" y="273"/>
+		</Airway>
+		<Airway Caption="№5 Усток-2">
+			<point x="128" y="329"/>
+			<point x="188" y="307"/>
+		</Airway>
+		<Airway Caption="№5 Усток-3">
+			<point x="189" y="306"/>
+			<point x="233" y="277"/>
+		</Airway>
+		<Airway Caption="№5 Усток-4">
+			<point x="232" y="277"/>
+			<point x="222" y="271"/>
+		</Airway>
+		<Airway Caption="№4 Сосновское-1">
+			<point x="109" y="415"/>
+			<point x="189" y="309"/>
+		</Airway>
+		<Airway Caption="№4 Сосновское-2">
+			<point x="187" y="308"/>
+			<point x="234" y="278"/>
+		</Airway>
+		<Airway Caption="№4 Сосновское-3">
+			<point x="125" y="426"/>
+			<point x="216" y="316"/>
+		</Airway>
+		<Airway Caption="№4 Сосновское-4">
+			<point x="218" y="317"/>
+			<point x="240" y="279"/>
+		</Airway>
+		<Airway Caption="№4 Сосновское-5">
+			<point x="240" y="279"/>
+			<point x="233" y="278"/>
+		</Airway>
+		<Airway Caption="№3 Чернуха-1">
+			<point x="214" y="477"/>
+			<point x="218" y="319"/>
+		</Airway>
+		<Airway Caption="№3 Чернуха-2">
+			<point x="218" y="319"/>
+			<point x="241" y="281"/>
+		</Airway>
+		<Airway Caption="№3 Чернуха-3">
+			<point x="235" y="478"/>
+			<point x="244" y="318"/>
+		</Airway>
+		<Airway Caption="№3 Чернуха-4">
+			<point x="244" y="317"/>
+			<point x="240" y="282"/>
+		</Airway>
+		<Airway Caption="№2 Бутурлино-1">
+			<point x="402" y="501"/>
+			<point x="247" y="321"/>
+		</Airway>
+		<Airway Caption="№2 Бутурлино-2">
+			<point x="243" y="280"/>
+			<point x="246" y="319"/>
+		</Airway>
+		<Airway Caption="№2 Бутурлино-3">
+			<point x="422" y="486"/>
+			<point x="268" y="310"/>
+		</Airway>
+		<Airway Caption="№2 Бутурлино-4">
+			<point x="270" y="312"/>
+			<point x="243" y="280"/>
+		</Airway>
+		<Airway Caption="№1 Лысково-1">
+			<point x="446" y="354"/>
+			<point x="253" y="281"/>
+		</Airway>
+		<Airway Caption="№1 Лысково-2">
+			<point x="436" y="372"/>
+			<point x="272" y="313"/>
+		</Airway>
+		<Airway Caption="№1 Лысково-3">
+			<point x="274" y="314"/>
+			<point x="253" y="282"/>
+		</Airway>
+	</Scale>
+	<Scale Value="5">
+		<Polyline>
+			<point x="438" y="57"/>
+			<point x="194" y="273"/>
+			<point x="10" y="333"/>
+		</Polyline>
+		<Polyline>
+			<point x="24" y="376"/>
+			<point x="130" y="340"/>
+			<point x="58" y="432"/>
+		</Polyline>
+		<Polyline>
+			<point x="88" y="465"/>
+			<point x="180" y="355"/>
+			<point x="174" y="517"/>
+		</Polyline>
+		<Polyline>
+			<point x="220" y="531"/>
+			<point x="227" y="359"/>
+			<point x="363" y="515"/>
+		</Polyline>
+		<Polyline>
+			<point x="406" y="493"/>
+			<point x="275" y="345"/>
+			<point x="486" y="423"/>
+		</Polyline>
+		<Polyline>
+			<point x="507" y="385"/>
+			<point x="241" y="289"/>
+			<point x="468" y="92"/>
+		</Polyline>
+		<Label Caption="№6" x="324" y="165" angle="0"/>
+		<Label Caption="№5" x="54" y="331" angle="0"/>
+		<Label Caption="№4" x="73" y="433" angle="0"/>
+		<Label Caption="№3" x="182" y="497" angle="0"/>
+		<Label Caption="№2" x="360" y="473" angle="0"/>
+		<Label Caption="№1" x="382" y="353" angle="0"/>
+		<Label Caption="АЭ Н.Новгород" x="301" y="245" angle="0"/>
+		<Label Caption="КТА" x="185" y="285" angle="0"/>
+	</Scale>
+</root>

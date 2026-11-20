@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="BAGDARIN" Caption="Багдарин" AMSG="АМЦ  Иркутск" Lat="54,43" Lon="113,58" MailTo="" Start="0" Center="false" Index="30557" HMS="РС10 ЗБУБ" CGMS="RUUU" UGMS="RUCH" Lastmess="4"/>
+	<Scale Value="10">
+		<Label Caption="Багдарин" x="282" y="245" angle="0"/>
+		<Label Caption="&#9650;NESOR" x="317" y="24" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="153" y="32"/>
+			<point x="55" y="420"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="326" y="13"/>
+			<point x="266" y="264"/>
+			<point x="137" y="497"/>
+		</Polyline>
+		<Label Caption="W118" x="96" y="293" angle="800"/>
+		<Label Caption="W268" x="303" y="166" angle="800"/>
+		<Label Caption="W268" x="186" y="443" angle="600"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="329" y="7"/>
+			<point x="267" y="265"/>
+			<point x="129" y="497"/>
+		</Polyline>
+		<Label Caption="W268" x="306" y="174" angle="800"/>
+		<Label Caption="W268" x="187" y="448" angle="600"/>
+		<Label Caption="Багдарин" x="282" y="245" angle="0"/>
+	</Scale>
+</root>

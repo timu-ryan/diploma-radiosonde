@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="TURA" Caption="Тура" AMSG="Красноярск" Lat="64,27" Lon="100,23" MailTo="" Start="0" Center="false" Index="24507" HMS="РС14 КРЯР" CGMS="RUKR" UGMS="RUKR" Lastmess="4"/>
+	<Scale Value="10"/>
+	<Scale Value="5"/>
+</root>

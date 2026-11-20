@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+	<Point Name="KALININGRAD" Caption="Калининград(Низовье)" AMSG="Калининград" Lat="54,70" Lon="20,77" MailTo="" Start="0" Center="false" Index="26708" HMS="РС10 ЛГКГ" CGMS="RUKG" UGMS="RUSP" Lastmess="4"/>
+	<Scale Value="10">
+		<Polyline ps="Solid">
+			<point x="156" y="25"/>
+			<point x="172" y="53"/>
+			<point x="200" y="32"/>
+			<point x="211" y="46"/>
+			<point x="182" y="72"/>
+			<point x="210" y="124"/>
+			<point x="230" y="126"/>
+			<point x="229" y="57"/>
+			<point x="248" y="55"/>
+			<point x="250" y="125"/>
+			<point x="253" y="126"/>
+			<point x="287" y="83"/>
+			<point x="300" y="88"/>
+			<point x="289" y="125"/>
+			<point x="330" y="127"/>
+			<point x="363" y="101"/>
+			<point x="377" y="116"/>
+			<point x="362" y="128"/>
+			<point x="416" y="129"/>
+			<point x="417" y="150"/>
+			<point x="336" y="147"/>
+			<point x="279" y="194"/>
+			<point x="338" y="147"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="278" y="195"/>
+			<point x="278" y="198"/>
+			<point x="518" y="185"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="330" y="214"/>
+			<point x="467" y="209"/>
+			<point x="395" y="230"/>
+			<point x="329" y="214"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="526" y="212"/>
+			<point x="439" y="239"/>
+			<point x="532" y="259"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="531" y="280"/>
+			<point x="394" y="250"/>
+			<point x="345" y="266"/>
+			<point x="484" y="363"/>
+			<point x="474" y="375"/>
+			<point x="320" y="271"/>
+			<point x="263" y="291"/>
+			<point x="269" y="358"/>
+			<point x="251" y="359"/>
+			<point x="244" y="297"/>
+			<point x="109" y="344"/>
+			<point x="99" y="331"/>
+			<point x="185" y="216"/>
+			<point x="90" y="215"/>
+			<point x="73" y="288"/>
+			<point x="55" y="285"/>
+			<point x="72" y="215"/>
+			<point x="5" y="211"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="236" y="228"/>
+			<point x="240" y="277"/>
+			<point x="154" y="308"/>
+			<point x="156" y="298"/>
+			<point x="236" y="228"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="258" y="228"/>
+			<point x="296" y="252"/>
+			<point x="258" y="270"/>
+			<point x="257" y="227"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="291" y="227"/>
+			<point x="354" y="242"/>
+			<point x="325" y="251"/>
+			<point x="290" y="226"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="204" y="217"/>
+			<point x="218" y="217"/>
+			<point x="184" y="249"/>
+			<point x="205" y="215"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="278" y="148"/>
+			<point x="305" y="146"/>
+			<point x="269" y="176"/>
+			<point x="279" y="146"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="223" y="145"/>
+			<point x="233" y="145"/>
+			<point x="232" y="153"/>
+			<point x="227" y="159"/>
+			<point x="223" y="145"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="114" y="125"/>
+			<point x="121" y="122"/>
+			<point x="196" y="143"/>
+			<point x="214" y="178"/>
+			<point x="199" y="197"/>
+			<point x="95" y="197"/>
+			<point x="114" y="125"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="138" y="36"/>
+			<point x="154" y="69"/>
+			<point x="124" y="93"/>
+			<point x="136" y="34"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="111" y="66"/>
+			<point x="101" y="99"/>
+			<point x="91" y="93"/>
+			<point x="110" y="67"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="78" y="111"/>
+			<point x="97" y="118"/>
+			<point x="54" y="152"/>
+			<point x="78" y="112"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="34" y="194"/>
+			<point x="89" y="148"/>
+			<point x="77" y="196"/>
+			<point x="34" y="195"/>
+		</Polyline>
+		<Label Caption="Низовье" x="269" y="250" angle="0"/>
+		<Polyline ps="Solid">
+			<point x="21" y="164"/>
+			<point x="60" y="104"/>
+			<point x="54" y="103"/>
+		</Polyline>
+		<Label Caption="&#9671;B73" x="53" y="113" angle="0"/>
+		<Label Caption="&#9671;R239" x="130" y="87" angle="0"/>
+		<Label Caption="&#9671;B489" x="147" y="113" angle="0"/>
+		<Label Caption="&#9671;G720" x="177" y="92" angle="0"/>
+		<Label Caption="&#9671;B74" x="71" y="220" angle="0"/>
+		<Label Caption="&#9671;B120" x="146" y="196" angle="0"/>
+		<Label Caption="&#9671;B704" x="180" y="214" angle="0"/>
+		<Label Caption="&#9671;R801" x="204" y="229" angle="0"/>
+		<Label Caption="&#9671;G354" x="220" y="279" angle="0"/>
+		<Label Caption="&#9671;A716" x="241" y="301" angle="0"/>
+		<Label Caption="&#9671;G720" x="334" y="275" angle="0"/>
+		<Label Caption="&#9671;A926" x="324" y="224" angle="0"/>
+		<Label Caption="&#9671;B120" x="347" y="192" angle="0"/>
+		<Label Caption="&#9671;G354" x="399" y="219" angle="0"/>
+		<Label Caption="&#9671;R801" x="284" y="153" angle="0"/>
+		<Label Caption="&#9671;B704" x="261" y="108" angle="0"/>
+		<Label Caption="&#9671;A176" x="228" y="92" angle="0"/>
+		<Label Caption="&#9671;B489" x="346" y="124" angle="0"/>
+		<Label Caption="&#9671;B67" x="251" y="149" angle="0"/>
+		<Label Caption="&#9650;KRD" x="254" y="204" angle="0"/>
+	</Scale>
+	<Scale Value="5">
+		<Polyline ps="Solid">
+			<point x="135" y="35"/>
+			<point x="163" y="88"/>
+			<point x="131" y="126"/>
+			<point x="39" y="126"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="179" y="23"/>
+			<point x="199" y="24"/>
+			<point x="199" y="36"/>
+			<point x="187" y="50"/>
+			<point x="178" y="22"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="287" y="29"/>
+			<point x="270" y="83"/>
+			<point x="343" y="26"/>
+			<point x="288" y="29"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="397" y="33"/>
+			<point x="288" y="121"/>
+			<point x="288" y="125"/>
+			<point x="487" y="115"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="513" y="155"/>
+			<point x="389" y="160"/>
+			<point x="525" y="193"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="19" y="162"/>
+			<point x="107" y="163"/>
+			<point x="3" y="300"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="99" y="227"/>
+			<point x="171" y="166"/>
+			<point x="140" y="163"/>
+			<point x="101" y="224"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="48" y="325"/>
+			<point x="203" y="189"/>
+			<point x="215" y="285"/>
+			<point x="42" y="344"/>
+			<point x="47" y="324"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="29" y="391"/>
+			<point x="222" y="325"/>
+			<point x="234" y="446"/>
+			<point x="269" y="446"/>
+			<point x="258" y="310"/>
+			<point x="369" y="271"/>
+			<point x="516" y="372"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="526" y="337"/>
+			<point x="420" y="261"/>
+			<point x="518" y="229"/>
+			<point x="531" y="236"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="248" y="189"/>
+			<point x="249" y="269"/>
+			<point x="336" y="242"/>
+			<point x="246" y="188"/>
+		</Polyline>
+		<Polyline ps="Solid">
+			<point x="314" y="185"/>
+			<point x="438" y="214"/>
+			<point x="382" y="233"/>
+			<point x="312" y="185"/>
+		</Polyline>
+		<Label Caption="&#9671;B120" x="32" y="131" angle="0"/>
+		<Label Caption="&#9671;B704" x="100" y="166" angle="0"/>
+		<Label Caption="&#9671;R801" x="144" y="193" angle="0"/>
+		<Label Caption="&#9671;G354" x="177" y="291" angle="0"/>
+		<Label Caption="&#9671;A716" x="217" y="336" angle="0"/>
+		<Label Caption="&#9671;G720" x="398" y="285" angle="0"/>
+		<Label Caption="&#9671;A928" x="378" y="182" angle="0"/>
+		<Label Caption="&#9671;B120" x="423" y="119" angle="0"/>
+		<Label Caption="&#9671;R801" x="301" y="43" angle="0"/>
+		<Label Caption="&#9671;B67" x="234" y="35" angle="0"/>
+		<Label Caption="Низовье" x="281" y="248" angle="0"/>
+		<Label Caption="&#9650;KRD" x="242" y="125" angle="0"/>
+	</Scale>
+</root>
